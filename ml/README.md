@@ -82,9 +82,8 @@ _Final Test metrics:_
 | ground_service+ground_fare | 0.00   | 0.00   | 0.00 | 0      |
 | meal                   | 1.00      | 1.00   | 1.00     | 6       |
 | quantity               | 1.00      | 0.38   | 0.55     | 8       |
-| restriction            | 0.50      | 1.00   | 0.67     | 1  
-| -            | -      | -  | -     | -  
-|
+| restriction            | 0.50      | 1.00   | 0.67     | 1  |
+| -            | -      | -  | -     | -  |
 | accuracy               |           |        | 0.98     | 856     |
 | macro avg              | 0.75      | 0.74   | 0.73     | 856     |
 | weighted avg           | 0.99      | 0.98   | 0.98     | 856     |
