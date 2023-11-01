@@ -108,3 +108,13 @@ The outcomes were impressive:
 - F1-macro: 0.79
 
 These results demonstrate the efficiency and effectiveness of this approach.
+
+### To DO:
+- The networks I used are all multilingual. To improve other languages support I would translate existing train text to targeted languages and add them to the training dataset.
+- Try Label Smoothing Loss to improve model calibration
+- Try Focal Loss and Class weights (as we have imbalanced data)
+- Use Text Augmentation for underrepresented classes.
+- In-depth analyses of mispredicted classes and items.
+- ONNX optimisatoin for improving SLA.
+- Create Unittests.
+- etc.
