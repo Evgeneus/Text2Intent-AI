@@ -1,0 +1,934 @@
+text,label,uuid,label_id
+flight from washington dc to salt lake city,flight,a249415e-9a02-45e8-8c7c-490eb2f366f9,0
+looking for a flight from denver to salt lake city,flight,49e523d7-6bbb-4611-8138-1e260d529f5b,0
+give me a flight between boston and denver,flight,582dc947-94c4-41ee-852c-aea2a59246d1,0
+show me all direct flights from san francisco to boston departing before noon,flight,e46a97e0-7316-467c-969e-0c4a0429f3b9,0
+what airlines fly from boston to denver,airline,609f49b3-27f5-4bce-9a95-ededc2fedff1,4
+show me dallas ground transport,ground_service,06dd5e45-e757-497b-90a5-4fbb8b52b790,2
+denver to san francisco wednesday,flight,4fbf0275-482a-428e-adf8-737bed0b126a,0
+show me all the flights between philadelphia and denver,flight,a053a097-ec0a-419c-9331-28f6dff53c04,0
+what flights are available from philadelphia to denver on sundays,flight,a6b186a9-1b07-4ad6-857c-29a7fcc485be,0
+what flights from las vegas to san diego,flight,04c53356-a53b-4cf8-b853-5a49ca77b36c,0
+list all takeoffs and landings at general mitchell international,flight,14327d22-e653-404f-83bb-7f425ee5f6d1,0
+what 's the latest flight out of denver that arrives in pittsburgh next monday,flight,2c4dc840-1710-45d8-806c-3f3e4ce2e2c9,0
+what is the price of flights from indianapolis to memphis,airfare,5f16a785-17a5-42be-8b80-57d9bc5866e1,1
+show me the type of aircraft that canadian airlines uses,aircraft,d5d19a17-2216-43b5-bf8a-d65b5e728fd1,8
+i need information for ground transportation denver colorado,ground_service,ac5bf693-2e47-4a90-b825-47939a66398e,2
+what is fare code y mean,abbreviation,8c7611b2-55e6-4af9-ad91-838fd42473fb,6
+show me the flights that go from san diego to newark new jersey,flight,9778b28b-5faf-4b3f-a3e4-35fbdbdb7efb,0
+what does yn stand for,abbreviation,edd4f109-1568-41af-909f-30e0df7fab5c,6
+what is the earliest flight between boston and washington,flight,c2b5eef0-e60a-4595-91a0-1986d324526b,0
+what flights are there arriving in chicago after 9 pm on continental,flight,fa9737ca-854b-431e-abbf-ee6a82c3023d,0
+what does ls stand for,abbreviation,0682d1c8-c0a7-46b1-9ee3-3a3a3a5ac5ff,6
+i need information for flights leaving baltimore and arriving in atlanta,flight,6653dce5-180f-4871-b7f8-273b9a28eaac,0
+how many first class flights does united have leaving from all cities today,quantity,dd425991-743d-4eac-8bf8-42c7a201ae65,3
+find me a flight from boston to san francisco with a layover in denver,flight,a0d40495-3668-4ea7-b811-99f9e378ba2d,0
+i 'd like to fly from denver to pittsburgh to atlanta could you find me the cheapest way to do this,flight,f7693d45-9fb9-4df4-8156-27c897a602a0,0
+all right what us air flights leave from indianapolis to san diego after 130 in the afternoon,flight,821fba78-0da0-4ea1-b369-1c6eb5b24743,0
+could you show me all weekday flights from phoenix to denver,flight,d53a4abd-1018-4480-a491-37526b45e283,0
+san francisco to philadelphia please,flight,739f8973-321f-4279-87a8-eae1af13c426,0
+i would like to know flights on june fifteenth from long beach to columbus after 12 noon please,flight,4602e54a-bf83-4f6c-af26-ac0b5a51b64b,0
+what flights has continental from atlanta,flight,46cf5623-bc33-47ee-bc68-f22fc25ba3d0,0
+in flight meal oakland to philadelphia saturday,flight,e9a72e06-5383-405b-b764-8dece52dc20c,0
+i 'd like to find a flight between dallas and philadelphia,flight,7032ff16-65dd-4580-b8f1-16e2e79ea9fb,0
+what flights from atlanta to toronto,flight,4c5d0eb0-2089-454b-b9eb-f76443a7952f,0
+what flights leave from phoenix,flight,5ff595c6-9530-4997-a44e-0166dfdf5b7a,0
+what type of plane is an m80,aircraft,fb1a93e9-3ef5-4cb1-bcd5-784949a6db87,8
+what type of aircraft are used on flights from cleveland to dallas that leave before noon,aircraft,4dabe267-9667-459c-9307-4cba5f7d6547,8
+list flights from san francisco to denver on friday,flight,99fde054-e35d-476d-96a0-a4093640aa9a,0
+boston to denver monday,flight,e712092f-1e8b-4d3c-a1ea-8d0724e75cd1,0
+describe fare code qx,abbreviation,79bc2f93-43e8-40b9-9718-6c5567a81fdc,6
+what am flights are available from pittsburgh to boston,flight,ab13c077-2e7c-4c4b-a64a-c6dae17506f7,0
+how far is it from orlando airport to orlando,distance,5e396480-487a-4fdf-87f5-798df4fc20bf,10
+what do you know about car rental in denver,ground_service,5a9d1d18-644b-4fee-8df0-505dbf27383f,2
+i 'd like a flight from montreal to san diego for sunday,flight,92956108-bd5b-4a1e-9eec-de4f2d17cb8a,0
+what 's the cheapest one way flight from denver to pittsburgh,flight,823a00ac-64fc-4511-a4e2-470912b3fba1,0
+what is the lowest cost fare that delta has between boston and san francisco,airfare,c2e8ac8f-5a36-4228-821e-f3f778ce3cef,1
+show me the price of all flights from atlanta to washington dc,airfare,7325fa30-65c9-4506-a991-f165f45dbf72,1
+i 'd like a flight on july ninth from orlando to kansas city in the afternoon,flight,384c7ad7-ed15-4b5f-8696-3c52f548b814,0
+please show me all airlines with sunday flights from philadelphia to denver,airline,a95980e3-54f0-4428-93a0-825d3ed625cf,4
+what are the flights on january first 1992 from boston to san francisco,flight,d0463d1c-dfe1-4e58-b736-fc88cec15769,0
+now i 'd like a schedule for the flights on tuesday morning from oakland no from dallas fort worth to atlanta,flight_time,22f8c6ad-09a2-4076-a06a-8c8ef4bdba90,5
+please give me the cheapest flight from denver to pittsburgh,flight,d3de61d3-7e57-4eaf-b877-e2166617e341,0
+i need a flight tomorrow from atlanta to baltimore,flight,174649b2-9747-471d-a503-66e3475cd9be,0
+what are the flights from new york city to las vegas,flight,87b0797a-9436-4828-af9f-8b30645f19d8,0
+i 'd like a first class flight from denver to baltimore on january first,flight,78b19de5-4bb4-4d87-bcec-2f06333434b2,0
+what flight from denver to pittsburgh arrives earliest in the morning,flight,c1470b3e-5802-4061-a45c-36ccb12348e1,0
+i would like to book a flight from denver to pittsburgh on july fifteenth i 'd like it to be the cheapest flight,flight,38e3892e-312a-413c-8faf-5c078c03ce13,0
+flights from washington dc to denver,flight,66c585fe-c222-4a32-898b-bb09005b4319,0
+how do i get to philadelphia downtown from the airport,ground_service,b610ac2c-2c08-4308-9ea7-780ccbc5cf7e,2
+what is the seating capacity of a boeing 767,capacity,0c9fa58a-fbad-4105-b7ad-c516ab0ca916,16
+what flights go from seattle to boston via minneapolis,flight,a1c1bd4d-7cea-4708-9420-a802283ff3bc,0
+please list the morning flights from philadelphia to toronto,flight,67d9305a-423e-47b3-ba54-502dab8ba67e,0
+i would like to fly from pittsburgh to atlanta on us air at the latest time possible in the evening,flight,54e04919-736c-4bd8-b131-79e6425e56a2,0
+what flights leave denver before noon on northwest airlines,flight,d94785be-b83e-4018-a7a7-46f27069723e,0
+is there any and airlines and flight number for today from chicago,airline+flight_no,324af28b-d0c5-4912-bee3-0b8dfc657a83,12
+what are the flights from milwaukee to orlando on thursday,flight,a8490524-df7e-4e1c-84d6-69111e875ace,0
+list the nonstop flights on wednesday june second from miami to baltimore arriving in baltimore between 1115 am and 1245 pm,flight,78b17754-a299-4a3a-8758-6d5281e69464,0
+show me the ground transportation in denver,ground_service,f076aa18-97a9-442f-ab75-9def41b7dd66,2
+please give grounds transportation at dallas airport,ground_service,3202b928-1d97-47a9-a749-f167badf9bab,2
+ground transportation in oakland,ground_service,a144a6f1-ebfc-4e7d-a78a-384ef013ad5c,2
+okay i want a flight originating in denver going to pittsburgh,flight,f0a55b65-5c25-43b2-b79c-53542546eaf8,0
+list all flights on saturday from dallas to san francisco nonstop,flight,3b5f0a88-0b1d-4cae-b0b3-ee29670da09c,0
+how much does it cost to fly on delta from dallas to baltimore,airfare,9051e2e3-527a-4fcc-893b-3c18adc8e498,1
+all flights from pittsburgh to philadelphia,flight,0af21617-da07-4c98-812f-f5ee70cfea78,0
+i need a late flight from san francisco to boston on wednesday,flight,0df71baa-b2c7-4743-9cca-fc79f9387186,0
+is there a flight from charlotte to newark on tuesday evening,flight,500589d7-ef7c-4ace-89d5-ccc98bc67810,0
+show me flights from philadelphia to baltimore,flight,96cc5ec9-16cb-4ead-951c-9991b27252da,0
+show me all flights from pittsburgh to dallas,flight,bc43ab1e-d717-4973-872b-14e615acfafc,0
+show me round trips from houston to las vegas nonstop,flight,6cea9406-d8c5-48be-a464-2e50b51ca44e,0
+what ground transportation is available in baltimore for the day after tomorrow,ground_service,31fc5afe-7b54-467d-b6c0-6626726fb3d3,2
+how many stops on continental 1765 from boston to san francisco,quantity,d75a2844-4097-4df4-b36d-b56a5c57283a,3
+how much is the ground transportation between atlanta and downtown,ground_fare,cd81452e-842c-4f6d-b508-56244a55048c,11
+please tell me the flights between boston and philadelphia next thursday,flight,b202d207-8ee9-4f46-a209-19b02c5e9765,0
+i 'd like to see the flights from pittsburgh to philadelphia,flight,f14ac4cb-ac31-464f-a0f0-d010b7a71286,0
+please list the flights from kansas city to denver,flight,50c80463-2780-4eb7-a874-76393d650414,0
+give me the earliest flight tomorrow from st. petersburg to milwaukee on a airline other than twa,flight,70641a1b-9444-46aa-bfdf-22df8801adae,0
+show me the cities served by canadian airlines international,city,6dd4dc6c-149b-4312-9f1c-b0ea28ec3e1c,9
+show me all flights from boston to dallas fort worth both direct and connecting that arrive before noon,flight,0360fad1-b828-4b7d-b031-34b4bd11d952,0
+do you provide any meal for my flight,meal,e175ed0a-4a09-471e-822a-50c5969f5023,18
+show me the most expensive fare,airfare,ea7910b9-cbcd-4ce6-811e-b9f3913b672d,1
+list all tuesday night flights from boston to denver,flight,232be5f2-4c8f-4121-9846-fe9ddba3924f,0
+sure i 'd like to determine what aircraft are use on july seventh leaving from boston and arriving in atlanta on july seventh,aircraft,709112e4-0c15-421c-a0e0-7614fdb3cd45,8
+show ground transportation in denver,ground_service,6e03ab06-a175-4a6f-9db2-7a8af695817c,2
+list all flights from baltimore to philadelphia,flight,f325a271-de07-4c03-9a8b-3f87d7758153,0
+i would like the first flight from dallas into houston on march first and the last flight from houston back to dallas on march first,flight,42ccf5c4-e74d-419b-86f1-7e0c0ed546ab,0
+show flights from philadelphia to boston,flight,e7a4e707-f3ae-42b1-b80a-f4681ffc4712,0
+what is the fare from boston to san francisco on united airlines flight 21,airfare,c92727af-e0a6-4cec-8b27-b2e3f0b9d13d,1
+find a flight from philadelphia to san francisco please on delta,flight,8378b1c7-ccc6-4f35-b3ef-2dcdddd1c547,0
+i would like to find the cheapest one way fare from boston to oakland,airfare,f01722a6-9389-4eec-ac80-4aea2a3e54a9,1
+i would like to book a flight on us air first class from cleveland to miami on february twenty second,flight,703d4e9d-3558-49dd-acf9-03208b9e08de,0
+i need the earliest flight from denver to boston that serves dinner,flight,f7f6be31-5324-4d8b-afb2-288c0c9bcc25,0
+i have two friends that would like to visit me on wednesday here in washington dc one of them lives in denver and the other lives in miami,flight,484dba7f-5ae4-4d64-9284-f914ee319de6,0
+what is the first flight arriving in montreal from toronto friday,flight,7da7a37d-b356-4c40-b047-71bede45a636,0
+can you please show me the flights from pittsburgh to boston on wednesday of next week that arrive before noon,flight,68d17e18-6d76-4146-97e5-0f7bf84fc16b,0
+find travel arrangements for a round trip flight from boston to pittsburgh,flight,6dfa3bc6-23c6-4135-b046-9a34856ae35c,0
+could you tell me what the earliest flight that goes between atlanta and denver is which serves a meal,flight,0c2f468b-e25c-4d8b-9d3b-c80d99ed6bb2,0
+is there any flight leaving washington around 3 o'clock for denver,flight,f46da644-bfb3-49ee-8e43-e2aae01cfc82,0
+list aircraft types that fly between boston and san francisco,aircraft,25cd74cd-712d-4205-8e29-4a5be516bb5c,8
+what is the cost of round trip ticket first class between oakland and atlanta,airfare,142e044f-54ba-4310-be8c-d26c329423fd,1
+explain the fare codes,abbreviation,6bbf87e1-f4b4-4993-9a33-32540a71e95d,6
+what flights leave chicago and arrive in detroit around 6 pm next tuesday,flight,5fd213e5-a9e5-4631-99ed-c70be769e865,0
+what is the cheapest round trip fare from atlanta to pittsburgh,airfare,f56beb78-ac4e-4519-abb0-4b5096a36a5d,1
+what is the cost of a round trip ticket first class between oak and atl,airfare,21510ccf-6b41-4185-b35b-2024ff44ea1c,1
+give me a flight from memphis to las vegas and new york city to las vegas on sunday that arrive at the same time,flight,0ba90fe1-e545-40ec-918c-c6bee3b62e37,0
+what about the eastern airlines flights arriving in pittsburgh between 12 and 4 in the afternoon,flight,39a983e8-31ea-44dc-8fed-2e784f8654dd,0
+show me ground transportation in westchester county,ground_service,4f5b4b42-a97d-4d64-9e74-ea359d1de566,2
+does the philadelphia airport have a name,airport,fb81876f-80cf-4f92-84fa-c18a3cca9a28,13
+cheapest flight from memphis to miami,flight,856b2ec8-e287-4311-989c-cb03233cd306,0
+show me first class flights one way tampa to st. louis,flight,62243d93-f29e-4690-a048-40eeaccc445a,0
+what is the cheapest fare i can get from dallas to denver,airfare,6125146f-a13d-4638-9392-520b4e144895,1
+what is the lowest price fare from atlanta to san francisco on flight delta 82 and delta 139,airfare,1acd9978-4391-4f08-b540-28f1223a4a47,1
+what is the earliest flight from washington to atlanta leaving on wednesday september fourth,flight,efb3a5fd-fb73-4727-9ac1-f158391d9b46,0
+what is hp,abbreviation,b9b29c33-fb69-47c2-8689-3bb690627b95,6
+what 's the earliest flight from atlanta to boston,flight,0e9b5534-225c-46c8-b302-5a8a383aeff1,0
+what is the cheapest fare one way between pittsburgh and denver,airfare,d90ae326-b0eb-4905-9e77-393468c6435c,1
+flights from denver to pittsburgh on thursday,flight,8103d61d-11f7-4b70-829d-0220da8f8649,0
+what time does the tuesday morning 755 flight leaving washington arrive in san francisco,flight_time,7d1bba36-9069-43be-b78b-f3951db1c1af,5
+what are the flights from san francisco to washington dc,flight,ddd961aa-abfd-4fce-99fc-f70a0a8e070c,0
+what is the last flight from baltimore to boston,flight,0420ce82-1704-4c5b-ab4f-7ed976c64334,0
+give me the flights from chicago to seattle on saturday morning,flight,9567065f-c473-4d21-9183-349f3d2c1c4b,0
+show me round trip first class tickets from new york to miami,airfare,6a605049-6da2-416d-bb76-a375e324b194,1
+please list the flights for me that leave dallas on tuesday morning and arrive in atlanta,flight,4c50a4aa-26aa-48a8-ae5c-2d0d7520ed97,0
+american airlines from denver to milwaukee,flight,a21ca5ba-c672-44d1-bdf8-242c6e0ee3fc,0
+show me all flights to philadelphia in the evening,flight,6ff3ea4e-83ab-4a24-8c9f-78c4326e46d4,0
+list the flights from new york to miami on a tuesday which are nonstop and cost less than 466 dollars,flight,74edf926-6545-42c6-baa5-5d7150655444,0
+flights from columbus to milwaukee,flight,07bf1c31-75b8-4cff-8316-8fd0d6924934,0
+i 'd like a flight tomorrow from san diego to toronto,flight,0c00d565-022b-4609-9bb6-6c6132e41203,0
+show me a list of flights from boston to atlanta leaving after noon and arriving before 7 pm,flight,d3458143-8b31-4b3f-a944-dcd6feed6290,0
+show me all the direct flights from atlanta to baltimore,flight,124956f5-2369-4f4f-9234-2e37ea9fd5a8,0
+what 's the cheapest first class airfare from pittsburgh to san francisco,airfare,64e0bb8d-612d-443f-9873-4d90fe791835,1
+show ground transportation for pittsburgh,ground_service,3a281a19-2c46-4a71-8196-a91bad7407bc,2
+what are all flights from philadelphia to denver on wednesdays,flight,4163ab47-7a49-4f2f-9d71-40b3110ea903,0
+what are my choices of flights to get from charlotte to minneapolis arriving about 7 pm in minneapolis,flight,d1569dc4-fb25-4651-a950-5c21676dfe2c,0
+show me flights from denver to washington dc on wednesdays,flight,eec41d52-8720-4e07-b29a-eacfdd6a8c21,0
+what flights go from pittsburgh to newark after 305 in the afternoon,flight,bfceca46-d7e9-4e9a-bea4-42f5f8cbd575,0
+show me fares from miami to new york,airfare,c3e2a198-7cc9-4514-b9ec-f30a67c3ad75,1
+show me flights from dallas to atlanta on tuesday,flight,621d38ef-25f7-4377-a5e0-18aa0ffb865b,0
+please list the flights from dallas fort worth to boston on july twenty third,flight,e2022199-4cea-4aff-9a78-76b444abf108,0
+flights from las vegas to phoenix,flight,e3b77d14-2fa9-4893-a1cc-37f9ee1b26bc,0
+what is the earliest flight in the morning to arrive in baltimore from boston,flight,e7396640-b80a-41d3-9c93-b692690af2e7,0
+how many american airline flights leave denver june tenth,quantity,92d10a6f-d94f-4aa9-83c1-9996afb93324,3
+i would like to fly from atlanta to philadelphia,flight,c5ca3698-0944-4bf4-816b-95e6dc8cb986,0
+i need a return flight from chicago to kansas city leaving chicago around 7 in the evening on the day following next wednesday,flight,89f1c626-716b-4818-8bd7-17c70c1d73ff,0
+i would like information on flights from denver to san francisco after noon on wednesday,flight,716569e0-3e11-4a19-b0f5-906e38641de9,0
+show me the cheapest flights from san francisco to boston,flight,3be882d3-dea0-43c2-954f-315a112a75af,0
+how many stops are on all flights from boston to san francisco that depart before 12 o'clock noon,quantity,39c1a47e-e495-417f-bf85-2554656c0090,3
+i need information on ground transportation from the airport in atlanta,ground_service,d9c3f876-2da4-4c6a-9074-c9d0306a6d02,2
+what flights go from pittsburgh to newark after 823 in the morning,flight,95c34953-7ea5-42a6-9816-d208c6f98ff4,0
+i need to go from boston to denver and then to san francisco,flight,61fbbce6-ba61-442f-82a1-b8c4052118ec,0
+list all flights from atlanta to baltimore thursday morning,flight,0ff27e10-f5fa-4afd-91de-e2236576111e,0
+all flights from baltimore to atlanta between 1 o'clock and 3 o'clock in the afternoon,flight,6269999d-651d-46a9-8610-8549ccb105f7,0
+what 's the last flight leaving from pittsburgh to oakland,flight,2b7bea44-5d7f-49e6-8ab0-c9c11dcad33a,0
+i would like a flight from washington to boston flight 324 on august twentieth,flight,d86c446d-f615-4c4f-8ec1-5755cb87d3dc,0
+show me all flights from san francisco to pittsburgh on friday,flight,06c4ace3-b559-4b06-9f30-44c56cb9beb6,0
+on august thirtieth i would like a flight from denver to san francisco in the early am,flight,09e0ad96-a71a-4428-9bfa-02738d7e03a9,0
+show me prices of flights from baltimore to dallas,airfare,d65d1a86-198b-4769-8caa-a1be7b371dd8,1
+flights from boston flights from philadelphia to boston on monday,flight,463a88fc-e5c1-4755-912e-d51fb4a6e431,0
+what are the afternoon flights from atlanta to baltimore,flight,e1368380-fdba-417d-b1d2-3acf0542f51b,0
+all flights from boston to washington dc on november eleventh before 10 am,flight,d817ef16-77fd-479c-b2cf-cdad3b9aaf64,0
+show flights from pittsburgh into san francisco,flight,2e57b211-e4bf-4294-aea1-e55382b821b0,0
+show me all flights from new york to miami leaving on a tuesday,flight,5590723d-6940-4c2b-a24d-e9e5d2fba0c5,0
+which flight from pittsburgh to baltimore carries the smallest number of passengers,flight,7aa22068-b14a-46fd-9643-695269ad6709,0
+are there any other cities that i can fly from boston to dallas through that i can get a flight earlier than 1017 in the morning,city,1dbc4f10-66e1-49ec-9e6d-05340c821fa3,9
+list flights from cincinnati to san jose friday evening,flight,449187bf-9009-4165-b343-3df6e85784f6,0
+how long does the ground transportation take from the salt lake city airport,ground_service,1614bb94-d523-4659-bb84-eda2e1abd92d,2
+return from miami to new york on tower air on saturdays,flight,211fd8b4-0c24-4006-b80e-221613d15451,0
+give me flights on american airlines from milwaukee to phoenix,flight,97c8b6db-1cea-4bb4-a4c9-bd72bc5419ff,0
+please show me the flights from washington dc to san francisco california,flight,e16fbdc3-e4ae-4cf9-be52-0c6c80128ec6,0
+i 'd like to see the flights from denver to philadelphia again,flight,8dfb0be5-0830-48bd-8e13-d069894913b1,0
+flight information on january twenty third 1992 from denver to san francisco,flight,71c5e234-4cbc-4f15-8a9c-c1c4c0d75baf,0
+cheapest round trip airfare from tacoma to orlando,airfare,66b23eb9-d7bf-451c-8d24-f5039c380a45,1
+i am interested in booking an early flight from dallas into houston and returning in the late evening,flight,98807ebb-b55d-4a23-86d2-f2072a628b84,0
+all round trip flights between new york and miami business class fare,flight,1d04fcce-7431-435d-baa7-7493a4ea8cf6,0
+continental airlines on saturday from chicago to seattle,flight,0d892b22-9511-4f8e-b1fb-a55069b4f40f,0
+what 's the ground transportation like at pittsburgh,ground_service,fc443af7-f883-4585-9776-063773441cf3,2
+which airline is the cheapest to fly from dallas to baltimore on december twenty fourth,airline,5e45e258-0f88-40c5-9e7b-f3d373defd15,4
+show me all first class fares from new york to miami leaving on a tuesday,airfare,1e94e899-218c-4ea8-acb2-ad4e84c7f605,1
+what flights go from philadelphia to dallas with a stopover in atlanta,flight,6822eba5-c89d-4eec-aacc-8cbc24ab7d04,0
+flights on twa from columbus to st. louis,flight,493c55cb-31ad-4115-8a53-63e70eaaea6c,0
+what flights are available from boston to washington dc late the twenty fifth or early the twenty sixth,flight,5854eb48-8ee1-4e35-8d29-7107aafd3d1e,0
+show me the flights from montreal to philly,flight,7384073a-9bc2-4a92-9bc0-eaefe3ffd6f2,0
+what airlines go from atlanta to baltimore,airline,9033f62a-1d70-4d09-9348-5dc44d0a3dd6,4
+show me the nonstop flights from houston to dallas,flight,f00365d7-20ba-4806-b6df-372fb2f8bceb,0
+thank you i also need to travel next wednesday evening from dallas to san francisco,flight,4750a1ff-b894-47f2-83da-51e7cab90d68,0
+please show me flights from denver to san francisco on wednesday after 1300 hours,flight,f4577a10-7262-4325-ba10-7cdb448ea1c9,0
+philadelphia to san francisco next week tuesday show the flights,flight,f9f3bd19-be60-456c-bdf1-2aa57816edd4,0
+how many flights are there between san francisco and philadelphia on august eighteenth,quantity,fbd6e733-124b-4579-b701-e46b5d4a7157,3
+list the flights arriving in baltimore from denver on august third,flight,20e0928c-b5f1-4916-a675-1763120773a3,0
+what is the cheapest flight from san francisco to pittsburgh on sunday,flight,2fcffc8f-77ce-4f33-b18c-e2dd779573c4,0
+what airline stands for hp,airline,e4d1bcbc-95bf-4b6b-b8a6-bd5ad28825fd,4
+san francisco to boston please with a stopover in denver,flight,3a011c91-8d95-43c6-bb7a-1d05a5c5916c,0
+i want a evening flight from dallas to milwaukee,flight,ba0dcceb-6499-49c4-9e4d-28d555212713,0
+i 'd like a flight from las vegas to detroit on monday,flight,d0cd119f-a54d-4d69-a793-c82ab4e05fa7,0
+show me flights from baltimore to philadelphia,flight,34008cc9-0b37-47e5-b7bd-738a63867209,0
+how many different flight classes are there,quantity,42701d10-dd69-4cc8-afde-5ae88952aa13,3
+are there any flights from denver to pittsburgh connecting in atlanta,flight,44f70e52-695b-49de-b19a-a63e73ba404e,0
+do you have any airlines that would stop at denver on the way from baltimore to san francisco,airline,99634a17-e702-4c09-9b80-6245b3d1ae7f,4
+show me the available flights from san francisco to boston on november twenty fourth,flight,a05e5f55-ce02-4c24-b6e6-38968f972a5d,0
+what flights are there between washington dc and san francisco leaving washington after 6 pm on wednesday,flight,4a72775d-d705-415c-9a69-7e1260099b5e,0
+what is the latest flight between washington and boston,flight,90cdd064-db56-4f0b-b3fb-6a8dcc141e19,0
+i live in washington and i would like to make a trip to san francisco can you tell me which airlines connect with those two cities,flight,7dab0577-ccdb-4d7d-a0fb-5df52cb93102,0
+what are the coach fares for flights from pittsburgh to denver,airfare,655a0511-1d9a-4642-82de-45f33e66271d,1
+okay i 've got somebody else who wants to take a round trip ticket from charlotte to montreal,airfare,266e76bc-984c-4328-8053-5c0fc35207ae,1
+show me the flights arriving in baltimore from philadelphia at about 4 o'clock,flight,69403ac4-a79b-4043-ba6d-5b67b8c82f17,0
+do you have a flight from charlotte to atlanta on june first,flight,d49170f0-0071-4f45-b458-9cd4a18e2c47,0
+show me flights from atlanta to baltimore,flight,2f1c537a-df8d-43e9-85e7-9bb69d9e1c3a,0
+list all flights from boston to san francisco on us air,flight,6e1f8f0b-427b-4638-991b-27f17161dddb,0
+is there a flight around 3 pm from charlotte to minneapolis,flight,7914079a-3ad6-4c44-ab02-f5411a3887ba,0
+flights on sunday from tampa to charlotte,flight,a03533a5-4bc0-4109-bbb4-ae0dd7ee421e,0
+please give me the united airlines flights from denver to baltimore that are the first class flights please,flight,305a8c21-66d5-4464-a74f-ad6df80030bf,0
+show me the delta flights from san francisco to boston,flight,137cf8b6-b085-48fc-8f62-d86bf3d3742b,0
+find any flight from boston to oakland stopping in denver,flight,782851cc-e083-4534-a447-9089a4c0d83b,0
+show me the fares for delta flights from dallas to san francisco,airfare,70635431-343e-47aa-aef5-dfb646f628ea,1
+what is the lowest priced fare from baltimore to boston,cheapest,d1dda9d8-3ff2-48e7-bc98-06d0fe80915f,14
+what does ground transportation look like in oakland,ground_service,1e6df210-a2f3-4e58-a0b4-7fa23330b212,2
+what nonstop flights between boston and washington arrive after 4 o'clock pm,flight,addb1335-98dd-4fdf-831f-9417704a68bd,0
+all flights from pittsburgh to philadelphia that arrive at 6 o'clock next tuesday,flight,1c87aa86-01fa-4454-b37e-244ce8270726,0
+show me the flights from love field to any other airport,flight,0d2a084e-23b9-49c0-a29e-4867c59d4dab,0
+i want to travel from kansas city to chicago round trip leaving wednesday june sixteenth arriving in chicago at around 7 o'clock in the evening and returning the next day arriving in kansas city at around 7 o'clock in the evening which airlines fly that route,flight,d996f62f-63fa-4611-b3c1-17e09b8120f5,0
+hi i need to go from newark to nashville on american airlines leaving around 630 pm,flight,e4838b48-fc70-42a9-b5ee-7f0aa775945d,0
+show me all flights from san francisco to pittsburgh which arrive in pittsburgh before 9 o'clock am tomorrow,flight,8f8044ad-66fa-4c3b-b9b9-d260f97adef0,0
+information on flights from baltimore to philadelphia,flight,3b5670ec-cf31-49c8-b2b3-8923d7da87d1,0
+economy fares new york to miami round trip and show me times for flights,airfare+flight_time,3536498d-639e-4881-8437-0a6390ab401c,19
+what is fare code fn,abbreviation,b9937381-fc8e-4e74-bbf5-6c21712dd8c3,6
+show flights leaving boston on wednesday morning and arriving in denver,flight,b9b50bb8-3f4e-4645-9024-f963b012c7aa,0
+what flights are available between philadelphia and denver on september sixteenth,flight,a6e25318-69fd-425b-bc49-dd9b52f12e8e,0
+i 'd like also to book a one way flight from pittsburgh to atlanta the cheapest one on july twentieth,flight,0ae7d635-6e19-45f6-ac52-89eb8bc96179,0
+what times does continental depart from boston to san francisco,flight_time,00880ae5-7255-4296-8628-c73c92afb1e6,5
+list daily flights from oakland to boston using continental airlines,flight,fcf3e751-848f-4120-8ab1-ee261d24798b,0
+please list the flights from pittsburgh to baltimore arriving may seventh,flight,fcf54385-49dc-4107-b3d1-e968be0f6767,0
+do you have a flight from salt lake city to st. petersburg on june second,flight,25e17465-8a9f-4634-acc9-ffed9ec5fb5c,0
+atlanta ground transportation,ground_service,556c1f0d-953e-440e-89f7-3e5e213659b9,2
+what is the earliest flight you have leaving boston heading to philadelphia,flight,8769185b-5a6f-44ff-95de-15257d355d50,0
+what airlines fly from new york to milwaukee to los angeles,airline,10f39711-214f-42cc-a6a7-e957d8f6a0cd,4
+show me the one way fares from san diego to miami nonstop,airfare,071141f5-48f8-41d7-9380-8f71adf53b57,1
+could you give me a flight between pittsburgh and philadelphia,flight,f3952b1e-89db-47eb-82ff-aed48c32159e,0
+an american airlines flight first class from philadelphia to dallas,flight,29089f54-2b6d-43b8-aa74-61041b8a8e11,0
+i need a flight from indianapolis to toronto reaching toronto on thursday morning,flight,1c1619cf-5af7-475a-b5dc-f58a2e98d126,0
+show me all the flights from atlanta to baltimore on any airline on thursday,flight,1a5f7464-d6cd-440f-9a78-339d1f8a762a,0
+what is airline nw,airline,a0fbc2be-cd65-404c-ac24-76d21c77a0b2,4
+what flights from las vegas to phoenix on saturday,flight,702be23b-bf01-4941-b281-f71cca0d4018,0
+i 'd like united airlines flights from denver to baltimore,flight,dba25dc2-2a53-4cec-96f2-f0be58b319d2,0
+please list all the arriving and departing flights from general mitchell international,flight,59f8697f-47e0-4536-9b3c-4a6a1524bd48,0
+i need a flight from san francisco to boston that leaves after 7 am,flight,a578a861-b659-49f1-8a35-208b7c4750fe,0
+what is the fare on the thrift economy flight from boston to san francisco,airfare,e2f24c86-4a47-49ae-a1cf-26f639ebb3c3,1
+sure i want to go from philadelphia to dallas,flight,19bbefc5-3dd1-4b58-ae2d-9ce5b70a424a,0
+need a flight from pittsburgh to denver,flight,bd6f9956-3268-4fcb-bc11-faf1c9deeb16,0
+please give me ground transportation information for denver,ground_service,6104ac3b-605b-4411-bd7c-5dc4f57b2120,2
+what 's the lowest round trip fare from denver to atlanta,airfare,5eebc47c-26a1-492e-b984-4e845d5d1b55,1
+list the flights between san jose and houston,flight,fb935af8-1e18-4ff7-8311-f70923af3371,0
+northwest flights with stops in denver,flight,61ab106d-d888-428d-ba82-5770c5854e90,0
+i need to know a list of flights from atlanta,flight,30e6b980-9ec5-4ad6-9544-a7349984111d,0
+how long is the flight from atlanta to san francisco at noon on november seventh,distance,e62b6805-c865-43dd-9b81-9fb1fd4a7adc,10
+show me the latest dinner flight from baltimore to oakland,flight,eb66f08b-84b4-47f8-80c6-40d043fe01d8,0
+what limousine service is in boston,ground_service,41be43d3-decd-40e5-9982-f00a9591ba8b,2
+show me the list of flights between philadelphia and denver that leave in the afternoon,flight,73cf812b-e7d2-4620-82db-af84313a699b,0
+show flights from denver to oakland that arrive after 12 o'clock,flight,585193e8-9618-4958-9264-21ab417ec91e,0
+in boston is there ground transportation between airport and downtown,ground_service,c6b2d1be-5c88-4794-9913-2354c5787232,2
+please list the wednesday american airline flights from milwaukee to san jose,flight,e2c824c5-79e9-4573-9239-1b48f8157936,0
+first class american flight from philadelphia to dallas on wednesday,flight,15dd8687-64ea-44af-bb3b-f45a196b0d70,0
+show me american flights from dallas to san francisco,flight,378d6f8d-724a-4a79-8575-e58e2e1b40ed,0
+i 'd like to know the earliest flight from boston to san francisco,flight,5d695a29-5c5c-47ab-a2e4-cab238104ca2,0
+i want to travel from kansas city to st. paul and be there by dinnertime,flight,e18b856f-3d9a-43ac-a5fe-19c89fe96d8e,0
+i need a reservation from baltimore to san francisco,flight,4089a3de-9f9b-4688-8b07-7d44c3edb2fe,0
+last nonstop flight from los angeles to pittsburgh on monday night,flight,a7ea21c1-df61-4698-ace7-c10cc5ba321f,0
+flights from phoenix to milwaukee on wednesday evening,flight,5b06fc57-98ee-4031-a630-e2309822eb74,0
+philadelphia to boston saturday,flight,e839deb1-2000-432e-bfe6-5556e7f0b88c,0
+show flights from denver to oakland,flight,0184bde6-64c1-4544-98e8-b8b7f9e5e9b6,0
+what kind of aircraft does delta use before 8 am on august second from boston to denver,aircraft,b8a6a4ad-1907-4000-adac-cd3ca3ddee0c,8
+show me all flights between boston and washington,flight,e256f4ed-0854-476e-baca-fa9217403410,0
+what airlines are ac and as,airline,3707f2e0-7a16-4a9c-bc1e-d5946ded8995,4
+i would like to find the least expensive flight from boston to denver,flight,692c937f-87de-4abd-bbce-bc10eba248de,0
+is there a flight from atlanta to san francisco that stops over in denver,flight,04cba808-efd9-4bdd-9950-90e8ba350928,0
+what airplane types fly from pittsburgh to baltimore,aircraft,8c57636b-c880-4d0b-ba7f-ad7eb13f7370,8
+give cheapest ground transportation in baltimore,ground_service+ground_fare,3787708e-5614-4cb1-a9ce-ddf412c7aa8f,17
+list for me only the united flights between denver and oakland,flight,64191059-d252-4931-bb62-87e814565016,0
+please show me airlines with flights from denver to boston with a stopover in philadelphia,airline,b0171d51-72f7-4b95-8b48-604d883d8ad6,4
+list all flights from tampa florida to miami that are the cheapest one way,flight,1911c56d-7ad5-478b-9fa4-13703957f8d7,0
+what 's the cheapest round trip fare between dallas and baltimore,airfare,723388dd-e74e-4738-9bc1-2b944c202473,1
+wednesday morning flights between baltimore and newark new jersey,flight,becc433b-5254-4ed6-9422-93bde04be1cd,0
+show me the flights on delta from atlanta in the morning,flight,0d4c02c8-05cc-4a8b-848e-1bf60c33b061,0
+show flights first class on american airlines between dallas and philadelphia,flight,f4fbe38e-84ee-422f-9bed-be76772b07a7,0
+which airlines provide direct flights between washington and denver,airline,e056075a-a559-406d-aaad-3730b81e04ab,4
+give me the one way flights from pittsburgh to boston,flight,fda45274-3249-4581-870e-51c0d8ed16fb,0
+what 's the cheapest flight from pittsburgh to san francisco on friday,flight,f14bbe4c-4f74-4103-b5dc-66587ecb4f1c,0
+what 's the first flight from boston to san francisco,flight,2e000433-f415-4777-8b3b-fa1f598180eb,0
+ground transportation dallas,ground_service,1d2fb2ef-f2ce-49cc-a4b1-3e620e2dcf66,2
+display all flights from toronto to san diego on us air stopping over in denver,flight,0ac3c7b7-d39a-447e-8f8d-1936299356fd,0
+show me which flights from san francisco to pittsburgh on a monday are first class,flight,fbc463f7-c3eb-488a-9e91-226f9bd10dbe,0
+i 'd like a round trip ticket from los angeles to tacoma washington,airfare,4968b123-04f0-4bfb-b970-9b1273fa6299,1
+please give all flights from dallas to oakland california monday,flight,2ccdfea3-a193-46cf-8a72-c510375d99b8,0
+show me the cheapest round trip fares from san francisco to salt lake city,airfare,28c95634-cb73-4a24-a18f-2058a038cd21,1
+what is airline ff,airline,84a2441d-3301-493e-941f-8779a812ab13,4
+list all flights from boston to san francisco with at least 3 stops,flight,aa4e2d96-4f9c-4586-b25d-551d144d70e9,0
+please list all flights between boston and atlanta,flight,61d41a15-2c0c-44cd-a4c5-a86af933c396,0
+show me ground transportation for dallas,ground_service,ee97efa2-3bfd-4f37-91af-c91610367bf9,2
+what are the lowest one way fares from pittsburgh to atlanta,airfare,00903964-3b7c-45b7-aa5c-9d180b4e3336,1
+what flights does american airlines fly from philadelphia to dallas,flight,4f8b4d14-918e-4ee5-b0b2-f13fc3946347,0
+list united flights from denver to san francisco on tuesdays or wednesdays,flight,83e36c27-4cf5-4d4d-b9bd-7c63894440ce,0
+give me flights from san francisco to boston on thursday afternoon,flight,e7f36acb-352b-41bb-abf7-3fac35e5b23e,0
+show me first class airlines from san francisco to pittsburgh on next tuesday first class only,airline,c68ea1b9-e1f3-42dd-98e9-3d8fc1014234,4
+what does it cost to fly from boston to san francisco on united airlines flight 21,airfare,e91e0af9-9043-4e0d-88c1-007da5688e49,1
+display all flights from pittsburgh to san francisco on august second,flight,e441fc37-6d0b-4c12-ad6c-806a742bf548,0
+show me all flights from philadelphia to san francisco with one stop in dallas,flight,2097b399-a0cd-4f0a-b5a3-0dd9d2241d5c,0
+flights from newark to boston,flight,9288b720-01f9-48c2-9940-e1ac0036eb8c,0
+find the latest flight from san francisco to atlanta that serves a meal,flight,f150cf07-63dc-4cd5-a447-551678834159,0
+are there any nonstop flights leaving from denver arriving in baltimore on july seventh,flight,cbaa95ef-9bb7-45fa-872e-7d1760eec99f,0
+what are all flights from san francisco to philadelphia with stops in pittsburgh,flight,0749a45b-37ad-4a0e-bfda-171d394bfc89,0
+i want a flight from long beach to st. louis that stops in dallas,flight,95a375af-3e6b-4fbb-9fcd-c1a8089ef00e,0
+show me the flights from denver to philadelphia and the flights from pittsburgh to philadelphia,flight,807e1480-a2c6-4ef1-bf46-02f105859c8e,0
+i would like to fly from boston to baltimore please tell me what are the times of the flights,flight,5f7590fb-c6ac-4e48-9357-5c48a848e44d,0
+show me the cheapest one way fare from baltimore to dallas,airfare,7ba00e69-821d-4841-8b5b-28e6dde564cc,1
+from atlanta to washington dc,flight,58f248d1-bcc2-4126-8c01-9850b7484eaa,0
+i need a flight from long beach to st. louis stopping in dallas the flight should also serve lunch,flight,ba698516-0108-4102-a9e8-bc2339503e3d,0
+show me the flights available from atlanta to baltimore leaving atlanta in the morning,flight,fb01ff68-7f78-4869-abaa-a144c1b8c08a,0
+what flights return from denver to philadelphia on a saturday,flight,304918b8-de96-4d9d-baff-42078958ffce,0
+coach class flights on twa from columbus to st. paul,flight,04925b72-12a8-4c28-a67d-ca42c5b751f6,0
+what is the distance from san francisco international airport to san francisco,distance,2271c4ed-41bb-4805-b02a-d198fe208dd4,10
+i would like to book a flight on us air first class from cleveland to miami on february twenty fourth,flight,6ba12621-a0a4-432e-8cb8-829a70e30995,0
+what does fare code q mean,abbreviation,8bed72ec-0711-44ab-b469-d0577ab7ad3a,6
+show me all the flights from boston to denver that serve lunch,flight,33fc129a-7831-45b2-b74b-8a96307fb773,0
+can you tell me about ground transportation between the dallas airport and downtown dallas,ground_service,6b07e866-734a-4332-8b16-bd828ca76b23,2
+can you tell me about flights from san jose to nashville on saturday afternoon,flight,b036c08b-c714-43e4-a713-46789cb80b2c,0
+show me all the united flights from boston to denver,flight,53de3996-e989-4c0e-aa76-b8298a4ba6c4,0
+what time are the flights leaving from denver to pittsburgh on july seventh,flight_time,0d443916-4e9b-4b71-86c7-c1ec477ed4a2,5
+show me the flights before 8 am on august second from boston to denver on delta,flight,88b0a004-e7b1-42e6-bba2-6f6d8335a4b1,0
+what does the abbreviation co mean,abbreviation,ccbb75a2-abbb-4b64-a517-d03a716d7344,6
+what flights from miami to indianapolis on sunday,flight,06105a21-8d7f-4bc4-b72f-4dbb047ab114,0
+actually what are the nonstop flights from las vegas to burbank on saturday may twenty two,flight,a2554322-51c6-4817-b827-9738f7571dcd,0
+show me information on ground transportation for dallas,ground_service,1bcca5d5-a9bc-4e55-ab87-edc4570c8b24,2
+list all flights on continental leaving denver,flight,c72117cb-42f5-4c97-9799-9639573f9534,0
+i am looking for the cheapest fare from indianapolis to orlando on december twenty seventh,airfare,5e4f26fe-38a9-4bc0-85b7-7bb0c6d2cc47,1
+which flights depart burbank after noon and arrive in denver by 6 pm,flight,8178438f-9b71-4194-a0d6-bed93636d98e,0
+list all nonstop flights on sunday from tampa to charlotte,flight,5a2f3109-0c70-47cf-9577-a33c27954708,0
+what 's the earliest flight from boston to bwi that serves lunch,flight,d0d90ade-eb1e-497b-aa7a-13ab58b9278e,0
+i need to fly from boston to denver and then to san francisco and back to boston,flight,bc3b146e-598a-445f-a6ae-8a75e1892e6b,0
+what nonstop flights are available from oakland to pittsburgh,flight,e10383aa-3679-46b6-8530-695a38f06bd8,0
+what are the evening flights flying out of dallas and going to san francisco on american airlines,flight,f7421016-5a73-4b59-9255-121e9246eb68,0
+show me flights to philadelphia coming from baltimore or denver or pittsburgh,flight,3a798428-a103-4b1e-8529-94801b716fdc,0
+show me flights from denver to atlanta on june sixteenth,flight,b9ec77d9-e811-4cdc-91ea-fdae97b2ebe7,0
+i 'm interested in flights from denver to pittsburgh,flight,d3c92bfe-1df8-4bc3-8644-132dbae55e5f,0
+what flights leave washington dc and arrive in san francisco on wednesday,flight,7568dae8-e2b6-44df-a3e5-0934443fce5b,0
+fares and flights from baltimore to philadelphia,airfare,43a80b9c-34bb-491f-b1ee-f6f22c7e6f83,1
+what flights go from san francisco to denver on mondays,flight,83cb093b-8b21-4413-91ea-caaf98385f7d,0
+flights from milwaukee to orlando one way,flight,294f8136-b023-4823-9f75-e2c26ab08d00,0
+i 'd like to find the earliest flight possible from san francisco to atlanta,flight,38b5c2de-9fd5-46d4-bf17-d699c8bf2480,0
+is breakfast served on flight ua 343 from boston to denver coach class,flight,9c8ab342-1799-4594-af63-dc2232a43cd0,0
+i 'd like to fly from philadelphia to san francisco through dallas,flight,232f80d4-41e9-4603-8df0-7ffbd0d50c55,0
+what are the flights from atlanta to baltimore which arrive in baltimore at 7 o'clock pm,flight,0b12becb-7a8c-4c5a-9720-809b5e074c91,0
+latest flight from houston to san jose,flight,9b3f273e-3315-48d8-b743-41a33de54cd6,0
+list the flights arriving in baltimore from pittsburgh on august third,flight,9e8bdcb1-8cfb-4743-b560-ef65fe3235c9,0
+list all flights on continental departing on monday before noon from denver to chicago,flight,00925fd0-33a1-448d-89c2-659d772567f0,0
+show me the flights from atlanta to denver on monday,flight,62eee6ab-f846-4ad1-bff6-d1d676c2af8b,0
+how many flights arrive at general mitchell international,quantity,a3e6aae7-f3bc-4d39-a69b-cc3d8ba2b444,3
+630 am flight on august twenty seventh from atlanta to dallas,flight,6aff49c8-3502-474d-a72c-4a60515fe6d7,0
+show me all flights from san francisco to atlanta,flight,1a890f0b-4436-4fe9-8e80-cf289ca28288,0
+what flights are available thursday afternoon from baltimore to atlanta,flight,69578998-b284-4f2f-b252-b1739972d282,0
+display all flights leaving from toronto to san diego on us air laying over in washington dc,flight,fa7d3802-8630-488b-af12-1019bb060b68,0
+which airlines serve atlanta,airline,467b4e19-b895-49e8-9dbb-dcc8b45e424d,4
+show me all the direct flights from baltimore to atlanta,flight,b8afadef-f877-4d69-8ab1-63ead26a0d14,0
+show me the one way flights from detroit to westchester county,flight,611b310d-f82b-41fb-85a0-f7555a8dabd5,0
+show me fares leaving on tuesdays from denver to dallas,airfare,9358458b-3acd-4fad-a9f2-989b5f568e3f,1
+what is the day of flights from pittsburgh to dallas,day_name,7c0057c1-2ae6-45ba-8fc8-c249a00a39cf,7
+i would like to find out the ground travel available in atlanta,ground_service,7a129523-b5c6-4deb-8b24-095b5cd5001d,2
+give me flights from baltimore to denver on united that offer first class,flight,003771d9-4143-4f5f-8a58-f40ecd73496f,0
+what is booking class c,abbreviation,7d624fef-45a0-4a84-91fe-9d5b27b0fdda,6
+i 'd like to book a flight from atlanta to denver,flight,ec81c770-e94c-4780-85da-a62546e68482,0
+show first flight from boston to philadelphia,flight,f62d344e-5efd-4c25-b52d-26ad9e770f5d,0
+i would like to see the flights from denver to philadelphia please,flight,a3903882-516d-4cb4-bc95-342613ad2027,0
+rental car in baltimore,ground_service,fae23467-37ff-4766-99bf-a21b3431486d,2
+houston airports,airport,82077f89-1eab-4e30-b0ad-7e88ce70e81f,13
+i want to fly from denver to san francisco,flight,ab0346bc-e94e-42da-b0c5-4d16d5dcef6f,0
+leave flight from boston to atlanta leave boston approximately 1 pm,flight,50461abb-b456-4af0-81b2-582bb2e7b16d,0
+is there a flight leaving from boston to atlanta,flight,855d2656-6cbc-4e8a-9f64-10603250f916,0
+find me the cheapest flight from boston to washington,flight,ea3e8307-7bb4-43f9-959c-a8123037effb,0
+show me all flights from new york to miami leaving on a tuesday and show me all flights from miami to new york leaving on sunday,flight,096a34f3-acf5-458a-93cb-4c4eb6f06d94,0
+flights between baltimore and washington dc,flight,932e720e-552c-4c8f-ad30-292843525a5d,0
+show me the flights from philadelphia to atlanta,flight,1bd7d0fd-7239-4689-a517-5155dfb52733,0
+what afternoon flights are available from pittsburgh to atlanta on a weekday,flight,b0887755-647b-4e33-9d99-9c8a80bb0f88,0
+i would like to book a flight that goes from memphis to las vegas,flight,00e94048-69d9-4c13-b8f0-f479b550eb95,0
+show me the round trip tickets from baltimore to atlanta,airfare,a40747a9-fdb5-4e9e-97e1-a8da884305cd,1
+what flights arrive in chicago on sunday on continental,flight,1648d1ad-7736-4ad1-8a8d-82f69b7d4f0a,0
+what is the latest afternoon flight departing san francisco and arriving in boston on november ninth,flight,f7435352-fe57-47d8-acbd-e12be2f1a3cf,0
+find the cheapest one way fare from boston to san francisco,airfare,57b028d2-6a0d-40ea-9b1e-eabd919eddf7,1
+i want the flights from denver to pittsburgh,flight,12974a92-5925-403a-85b2-2a14884750e7,0
+i would like some information on flights leaving boston to atlanta,flight,00d7fe14-4a18-4f21-a02f-f4493a57f180,0
+what are the flights from orlando to kansas city,flight,62516b7b-2e29-4aca-93ef-6525c9a71fdc,0
+i need a flight from san diego to indianapolis leaving in the afternoon on tuesday,flight,787d7f9f-4ffd-4c1e-af4e-35aad582c3a4,0
+from phoenix to las vegas on saturday,flight,54760883-98fe-47ae-9713-ac876bcd9df8,0
+from washington dc to philadelphia departing in the afternoon,flight,6c1224a2-99a6-4cbf-9510-af59375a61e1,0
+do you have a flight from boston to fort worth,flight,669a3fc3-1d9c-437f-b1dd-7479ed3511b3,0
+what is the cheapest fare from dallas to denver round trip,airfare,33bf400f-3550-4828-bf81-8b1e9d888272,1
+can you list all nonstop flights between st. petersburg and charlotte that leave in the afternoon and arrive soon after 5 pm,flight,a2e120d0-5b40-4ac5-8e4a-5c1a48ca0f32,0
+what flights depart newark for tampa on friday,flight,289367f1-3d06-4254-89ca-4cda952257e4,0
+i 'm interested in round trip flights from boston to washington,flight,d94bc3f2-30fb-4250-8d48-8e0e822a69a0,0
+what 's the name of the denver airport,airport,27510557-ea71-4d97-a5c5-c570bcd74486,13
+is there a round trip flight from baltimore to denver connecting in dallas,flight,98d8b3c9-7f5b-434a-8230-4234bf69c49b,0
+are there any flights from dallas fort worth to boston leaving before 10 am,flight,76e8368e-174e-4984-98fd-45690b1a8f01,0
+flights to baltimore,flight,fae68f75-316f-4b69-acd9-1a9a60159347,0
+what airlines fly into salt lake city,airline,6aa320d0-a76c-48a2-87f2-245f9657aa4d,4
+are there any flights from new york to los angeles which stop over in milwaukee,flight,a7422fc6-2fe1-492c-ac7e-401c2e2df83f,0
+what is bur,abbreviation,c8969569-e740-42bd-a7b4-4158e6e708de,6
+fares and flights from denver to philadelphia,airfare,47615b35-787e-41b7-9b81-c82f91a016f0,1
+list flights from detroit to san diego on thursday,flight,cc070826-3cd9-468d-aed4-7bc6e920abcd,0
+flight information from pittsburgh to denver,flight,bc17442a-e8c9-4023-938a-fbeaecf6003b,0
+i want to fly from cleveland to san diego tomorrow and stop in indianapolis,flight,8b653a2b-aff9-4842-a708-004dc365ad22,0
+what is the earliest flight that i can get from bwi to boston logan,flight,80c85a5c-9db2-49f3-9576-4f89b6feedf8,0
+i would like to travel from washington dc to pittsburgh on august twentieth,flight,df50478b-dd59-45e3-9d13-7e79b8b7ba66,0
+show me flights denver to washington on thursday,flight,b01340df-af38-44f2-a8db-bb2c540657df,0
+can you show me the flights from dallas to baltimore with economy fares,flight,956a39cb-b5b4-4f44-ad64-00056bc77413,0
+what about flights from boston to san diego,flight,370d54cc-93b5-4fd6-bb8b-86802bfae13a,0
+list all flights going from boston to atlanta after 6 o'clock on wednesday and before 7 o'clock am on thursday,flight,504e6734-a562-40a2-82e7-960ec06e8e69,0
+list all flights please from washington to san francisco,flight,8ccc8ae5-fb7f-405c-a319-e3624fdc3fb5,0
+i 'd like to travel from boston to baltimore on us air 269 please tell me the times,flight,3b4ead62-3fb4-4d02-97c1-23e17eedef3a,0
+what afternoon flights are available from denver to san francisco on wednesdays,flight,e117eaf7-896b-485c-af03-e947c350bf66,0
+show me the flights from san francisco to dallas,flight,670e5047-4589-4c61-a6d6-f63164685076,0
+list flights from san francisco to pittsburgh,flight,516da8f4-0bb0-47a3-83c2-0a207232b993,0
+dallas to oakland saturday,flight,5f7da2fd-5668-4731-9537-cc5ff8d570b1,0
+do you have a flight from atlanta to baltimore nonstop on a boeing 757 arriving baltimore around 7 pm,flight,fafbf5e5-8cf3-465a-9094-da8885373df2,0
+dallas to san francisco leaving after 4 in the afternoon please,flight,395dd94f-e5af-4042-9e67-03adcd816630,0
+how do i get from the airport to downtown in tacoma,flight,c17b72dd-ec5a-48bd-91fa-fbcadb83e8db,0
+hi i need to go from cincinnati to san jose california after 6 pm on saturday,flight,6757356e-0b3e-4b17-ae83-f7722bbb6c0b,0
+please show me again the first class fares from baltimore to dallas,airfare,1531f143-9d22-4a01-8f99-437795edb270,1
+list flights from phoenix to detroit on wednesday,flight,0ec7bb6e-f1d8-4fd6-bbd7-6305dcc225ea,0
+flight from denver to san francisco in the afternoon,flight,e431c762-5ef1-450a-ac5f-67ceb35f7bce,0
+show me all flights from charlotte,flight,6c9eea5f-de7a-4844-b433-431e06387492,0
+i need a flight from san francisco to boston that leaves after 8 pm,flight,6ec44295-3e6d-4046-8ca1-1f373725f633,0
+what kind of meal do you give for flight 751,meal,58e211ed-d2e1-4d6d-8393-e14982ad71f0,18
+show me fares leaving on tuesdays from denver to go to dallas,airfare,2314fc42-0ecb-4bc1-89a4-0c1c277496f4,1
+are there any american airlines flights flying into pittsburgh between 12 and 4 in the afternoon,flight,ccd75ba5-ce46-4ec2-83fe-91e97d15ce89,0
+show me the flights on delta or twa which go through atlanta,flight,ea765dcf-6080-45df-bb69-6cb7b6523b21,0
+what 's the next smallest plane after a turboprop,aircraft,7d717787-c51e-46e4-bc0a-31bce7ff71a7,8
+in dallas fort worth i would like information on ground transportation,ground_service,b0006c1b-2425-4295-b298-8f0b6a67b6f9,2
+do you have any flights from pittsburgh to boston on wednesday of next week in the morning,flight,04840856-5623-4c65-b1c8-22fd59ca3171,0
+could you tell me if delta flight 296 serves breakfast,flight,3f90c862-c1c1-4080-8203-810d9738c70a,0
+i would like an afternoon flight leaving tuesday san diego to indianapolis,flight,7bcf6c36-544a-4da2-ada0-9d2e4c4bc64d,0
+what are the flights from tacoma to san jose also on tuesday the eighteenth of may,flight,647c4b0d-5a98-4963-8fa3-44af8106fd08,0
+show me flights from san francisco to seattle,flight,3e9c8453-72b3-4e44-9c00-09cc4d603976,0
+is there a flight leaving san francisco to denver,flight,bc1966ca-f139-448f-98ca-c90ebd05c9e5,0
+i would like a nonstop flight from st. petersburg to charlotte leaving in the afternoon,flight,36769586-4019-4e3e-aa29-f228c3e2f896,0
+does american airlines fly from pittsburgh to atlanta,flight,eb45ce35-5d9b-4589-a819-563d3b95d77d,0
+i would like the flight number and the time for the cheapest fare that is the least expensive first class fare from san francisco to pittsburgh leaving after 8 pm monday night,flight_no,d3553d16-8414-4959-9ee6-e57162874a3a,23
+what airlines fly from toronto to san diego with a stopover in denver,airline,df388c76-2770-4d21-b181-188151b216ad,4
+show me flights from los angeles to pittsburgh for tuesday,flight,dc1ad44d-ea8b-4d2c-afb3-dc9d10f51aeb,0
+what flights are there from nashville to houston tomorrow evening that serve dinner,flight,4e415142-00fc-460b-8054-440ad4791a49,0
+what is the fare on american airlines flight 928 from dallas fort worth to boston,airfare,2f044cbc-1929-4486-8190-86f2400565db,1
+which nonstop flight from atlanta to oakland leaves in the afternoon and arrives at 5 pm,flight,bf6d3e8c-cfa2-46f7-88dc-187c31da0a3c,0
+what type of aircraft is used on the flight from atlanta to philadelphia before 12 o'clock noon,aircraft,9b0a257e-ee12-4db5-857c-b1166af897df,8
+is there a flight between oakland and boston with a stopover in dallas fort worth on twa,flight,bcef5b6c-7011-4f67-89e8-9c2e74c59a8b,0
+list flights from atlanta to boston leaving between 6 pm and 10 pm on august eighth,flight,53b63b1c-46aa-4d1b-844c-7e20efa50cba,0
+cheapest fare from nashville to seattle,airfare,94ff8248-c749-4874-8c47-bc26c8669d56,1
+what are the fares for flights between atlanta and dfw provided by american airlines,airfare,6afd528a-ee7b-4188-ab00-e8cf399cbeca,1
+i 'd also like to see a list of the flights from pittsburgh to atlanta,flight,fda9066d-9854-4643-82ab-3c942364292f,0
+please list all the takeoffs and landings for general mitchell international,flight,2050dbf1-7944-4c90-8e25-f87787c37cf7,0
+what is the fare for a one way flight from boston to atlanta,airfare,c40a1ba3-1860-4067-94c8-5320a870e144,1
+i would like to book a flight going from tampa to seattle on may twenty sixth i would like to stop in milwaukee on the way,flight,ebe835f2-0b6c-4671-8a7b-5b4e74f9f131,0
+what flights are there between nashville and st. louis which are nonstop and arrive after noon and before 8 pm,flight,9a72653f-d357-4576-9cfd-6bd659f52eb2,0
+i want an early morning flight from boston to philadelphia,flight,899c542c-24f3-4b3b-a87b-7342c98fa74d,0
+list all flights on continental from denver to chicago on sunday which depart after 934 pm,flight,6ab20385-cde3-4b01-a737-e596e9ca0ed3,0
+ground transportation washington,ground_service,dbb67215-ff3d-4061-94a8-56a295ba3d7f,2
+show me the flights from san francisco to newark that leave after 11 pm,flight,fe24f037-d389-4941-be57-e69476720473,0
+show me all the night fares between philadelphia and san francisco,airfare,a87619ca-ccac-4b61-8c0b-3c7fcef0c8d2,1
+ground transportation philadelphia,ground_service,83707b41-c2a3-407e-9d7b-e191a6d47638,2
+what flights are there wednesday morning from atlanta to philadelphia,flight,b4d37f1d-a2bc-451e-abb0-9ad5a71c6ee9,0
+please show me the return flight number from toronto to st. petersburg,flight_no,e1eb850e-c998-45d3-9256-d3e5a72158c9,23
+what is ewr,abbreviation,e328ce9d-ebd5-4c5f-9812-a6ad23433fdf,6
+show me all flights from san francisco to washington dc area,flight,51f68457-ab19-4459-92ce-1f54f5821a0c,0
+okay and can you tell me for flights departing from dallas to philadelphia the latest flight you would have departing from dallas to philadelphia,flight,bca0eba1-4ede-4779-a28b-87b4e741a56a,0
+i need to fly from baltimore to dallas on tuesday evening,flight,d80096f8-c5f1-4d9e-afd2-3cc0fd486f94,0
+what is the latest flight from san francisco to boston,flight,d7f57c12-e8cf-4d45-820f-96c7db16c977,0
+i want a flight from denver to pittsburgh then from pittsburgh to atlanta then from atlanta back to pittsburgh back to denver,flight,ab66de8d-2819-4cf2-8583-80a1f49355f3,0
+give me the american airlines flights from phoenix to milwaukee on wednesday,flight,ce29c5d9-8c20-41df-a8a5-801900d7faa7,0
+i want to leave philadelphia and arrive in atlanta on a thursday,flight,281b1824-87be-4600-967a-31a5bdeabf66,0
+is there a delta flight from boston to san francisco that stops in denver,flight,19c74dd0-23dd-41f0-b3db-a57fd5af78d2,0
+show me flights from san francisco to dallas please,flight,87093e13-26d0-4a2c-80bb-e80244618112,0
+what is the earliest flight that i can take from boston to baltimore,flight,8d6c2e90-e525-4ba0-a8b1-3b8ef1ef39ca,0
+flights from indianapolis nashville memphis to seattle,flight,b7fbfe49-0d4c-4c03-9a31-dc40163561d8,0
+i would like an early morning flight from chicago into seattle on continental airlines,flight,5c4bfd5c-afac-40c6-961d-465c3617e85c,0
+what flights leave la guardia for san jose and arrive 10 pm,flight,e21766f8-a0ad-4588-9eef-28ee66eaccff,0
+give me the flights from pittsburgh to los angeles on thursday evening,flight,9e7f46dc-cc22-4f8a-900d-d25574ad78a8,0
+show me all the flights to baltimore after 6 o'clock pm,flight,13294a16-20d9-40b8-bd80-eb5ffba46667,0
+show me round trip fares from new york to miami,airfare,529ae45a-1983-4e8c-815e-0132e127b8f4,1
+i 'm sorry i want to book a flight from atlanta to denver colorado,flight,53fccbda-a7f5-4460-a0b8-2b08ce3782c3,0
+show me flights from san francisco to denver after 4 pm,flight,e414b55a-0005-443d-bd2b-b6760927fb00,0
+show me the flights from boston to san francisco that stop in atlanta,flight,bbe6a5d5-59a7-46a8-955b-ce4f56d53817,0
+list all flights from chicago to seattle on continental airlines which depart on saturday before noon and include a meal,flight,ece4fc91-e870-480f-9404-b849a44b3b47,0
+i want a list of flights from pittsburgh to baltimore on thursday that arrive in baltimore before 10 am,flight,dcd8fc44-a30c-4d28-958f-17a603b8bd08,0
+does us air fly from washington dc to denver,flight,51737063-96e0-48b7-bbb3-f8450d286f5a,0
+i now need a flight from san jose to houston leaving on sunday the fourth,flight,3ff45fc4-6966-4623-adaf-9fef182a4315,0
+i need a flight on friday from newark to tampa,flight,c295b724-e4b4-4d1b-ac3f-aeb000fe3c5a,0
+i want information on flights from atlanta to washington dc give me information on flights after 4 pm on wednesday,flight,c1481eba-79d9-4eff-8e28-339a221923ff,0
+what is the cheapest coach flight between dallas and baltimore leaving august tenth,flight,26fd5668-abb1-4d6b-a8d4-465197d312d0,0
+give me all the flights from new york to miami round trip with costs less than 466 dollars,flight,d03fa75e-1706-4fb8-b958-5d6def9c92fa,0
+show me flights between denver and baltimore,flight,8a9056d0-9651-4ac1-b7e5-9d2d8219d7b8,0
+i would like your rates between atlanta and boston on september third,airfare,cdac9dba-089f-4b24-8bf8-77662c940bb2,1
+atlanta to oakland thursday,flight,a28c7441-504f-4618-a622-7538223ecd05,0
+morning flight from oakland to dallas,flight,b30a18bb-60fc-4789-98b9-140b551f45b8,0
+show me flights from pittsburgh to philadelphia on wednesday morning,flight,ac831b11-7407-4a48-9aa2-57416707e7ce,0
+please show me airlines with flight service from boston to denver from denver to philadelphia and from philadelphia to boston,airline,bd12c630-88ed-4b4b-8e2d-171c360ab013,4
+show me all flights from milwaukee to orlando,flight,cc0b8bf5-114d-4118-a594-36dc79c7c8ec,0
+show me flights from oakland to dallas on sunday,flight,c011da3a-4b67-4a32-8147-125f4d80dd24,0
+flights from phoenix to las vegas,flight,78cfda81-df25-492e-9321-ba924ff0a672,0
+what is the latest flight from salt lake city to phoenix,flight,f92df640-9c73-4ebb-99cf-43e2cb65828b,0
+flight from dallas to oakland california on monday,flight,de936669-e27d-4a2a-b5a0-63549ce6e206,0
+all flights from charlotte to anywhere on us air around 1 pm,flight,582666bc-f184-497a-a382-b098cbbf6547,0
+can you tell me what flights you have from baltimore to dallas,flight,0649f79a-0c2f-4c1d-a71c-5d1e87b2e6f8,0
+please show me airfare of flight us 345 from boston to pittsburgh,airfare,c7ea8fc0-94e4-4e4d-a801-675f95411512,1
+i 'm traveling to dallas from philadelphia,flight,e2f76768-72fd-4f2c-a513-7e66c69adfe8,0
+what ground transportation is there in denver,ground_service,4b3d00ed-c418-4217-bc82-f8ff1dd2a7f8,2
+list flights between oakland and san francisco,flight,40631d3a-43a7-477a-9796-956c881e8c1b,0
+i need a flight from denver to washington dc on wednesday,flight,2ef9fcbe-f802-462b-b054-db22a75523c6,0
+what united airlines first class airfare flights are available from denver to baltimore on july three,airfare,60e90361-fd07-4c82-a52c-055cf3f96c0c,1
+show me the flights from pittsburgh to baltimore,flight,22f95898-069e-43bf-8c51-89525187ccd5,0
+i would like a flight from atlanta to denver,flight,73874005-752d-400b-9573-4886a6e91d55,0
+i want to travel from philadelphia to san francisco with a stopover in dallas,flight,9cbcb305-0966-428c-bbe9-5ed9fadb9ca7,0
+what flights leave pittsburgh and arrive in los angeles after 5 pm on thursday,flight,56a8118e-925d-47dd-8615-0d11d76f5cab,0
+show me the flights from baltimore to pittsburgh,flight,9805625a-4647-4094-baee-31ffe62db8c4,0
+could i have a list of flights in first class on monday from san francisco to pittsburgh starting at noon and afterwards,flight,6b8dbbfd-1931-43e6-b3b3-664ddc8a6bf9,0
+does midwest express have any flights,flight,d1e11ec8-a921-4f35-abd5-4ebcaf97e6a7,0
+i need a flight from philadelphia to dallas,flight,9b2646dd-bf48-44f2-86a5-58e96d865dd9,0
+show me the cheapest round trips from dallas to baltimore,flight,3a5aa79f-7d21-4a18-9a0a-e9eda3b6edff,0
+what are the round trip flights from philadelphia to san francisco,flight,974a850a-9ad5-4be2-aeb5-e430a0dd9a30,0
+please list all flights from baltimore to atlanta,flight,059b3ec8-088e-4401-ab36-a764b2fdf6ec,0
+information on american airlines flight from washington to philadelphia,flight,aa67a5f3-0063-4b6a-a532-7ff1cd63f570,0
+show me all the us air flights to pittsburgh between 12 and 4 in the afternoon,flight,84ddf0d7-37b6-44fd-abca-5561ce0cf6c1,0
+i 'd like to fly united airlines from washington to denver,flight,ef3b20b3-9e7d-40e7-b254-e2a8e83fe74d,0
+flights from cincinnati to salt lake city,flight,04cf5563-d5c6-4869-9a20-02f9db3b1a45,0
+what flights are available on dl from dallas to atlanta on monday morning,flight,d166a6aa-8f16-40de-bbb5-dfdbd24a55b2,0
+can you show me one way economy fares from dallas to atlanta,airfare,e1c37701-0789-4833-8672-276fc03cac10,1
+what is the cost of united airlines flight 415 from chicago to kansas city thursday night,airfare,813f36bd-6e17-4c89-9d73-ff9d1d6fecf7,1
+on august thirtieth please schedule me on a flight from denver to san francisco early in the morning,flight,5d495a31-b975-417b-8052-2eace6c005d6,0
+i 'd like a flight from baltimore to boston as early in the morning as i can,flight,28b56334-e147-499a-90fc-3ae67d83b470,0
+are there delta flights leaving denver,flight,1d464ee1-7af1-4add-b1e2-87716ee4683b,0
+now show me the flights from denver to atlanta,flight,bb1f2c61-06b2-4320-bd61-ba99c7d59b0a,0
+show me all the flights from milwaukee to orlando that leave after noon on wednesday and before noon on thursday,flight,fc0acf56-eb82-4d68-8981-4c96c3540159,0
+round trip flights from salt lake city to cincinnati nonstop flights if possible,flight,ae2282fc-7335-48e1-b73c-3e78ff921284,0
+which are the flights from denver to baltimore or washington dc,flight,4a7abb24-0e7d-4676-bc07-2ce1a831046b,0
+show me flights from denver to dc on wednesday,flight,23fd403f-0071-4d66-b7f2-230c73003730,0
+what are the coach class fares on flights from pittsburgh to atlanta,airfare,29e288dd-453b-4a60-879b-45fb7345db5c,1
+show flights from boston to denver on wednesday morning,flight,aa8207e2-8395-458f-a240-0be2800aa6ea,0
+show me the flights leaving from love field,flight,f37a1a0e-1b3e-4262-9aae-8e14820ed34e,0
+show me all flights from boston to denver,flight,834b92c9-22fe-4d40-945b-aee3b472af6b,0
+what are the flights from baltimore to dallas on sunday night,flight,8e6b5356-5fea-4dac-8780-3fce2f636670,0
+what 's the cheapest flight from denver to pittsburgh,flight,1f90127d-3c34-4c04-9c99-543735341008,0
+list all the flights that fly into general mitchell international,flight,e5504bc9-9905-4b37-8195-9a82f0c915b7,0
+what is the earliest breakfast flight from philadelphia to fort worth,flight,c6ad1e6e-2a17-48de-9fdc-d41d87c4675f,0
+can you list all nonstop flights departing from st. petersburg and arriving in charlotte,flight,45864a9a-3159-418c-98cc-5076ec1853b3,0
+show all flights from baltimore to dallas on monday evening and the cost of each flight,flight,90ab4821-fca3-4e9a-9430-4b485b493e52,0
+what is the first flight from boston to san francisco on saturday,flight,f53d0413-93a2-4be4-a907-2fcad5ee6be2,0
+list daily flights from boston to oakland using twa,flight,6a665d7e-d7c9-4f91-bb6c-eef787a97576,0
+what is the seating capacity of the various airplanes that united airlines uses,capacity,2cbceac8-7664-4eaf-8d4e-a33a818b2499,16
+how much does it cost to get downtown from the atlanta airport by limousine,ground_fare,94bea74f-af71-4734-8dea-5e6bc9cacbec,11
+where does flight ua 281 from boston to oakland stop,flight,2a9ef3c8-064c-417b-bafc-5a9e922580b6,0
+find all flights from philadelphia to dallas stopping in atlanta,flight,b37b48d1-aa28-4ff5-9bbb-43e487a56658,0
+flights from la guardia or jfk to cleveland,flight,51ee9cb5-db3d-49bf-b03f-875f4e12d590,0
+what flights are available from pittsburgh to boston on wednesday of next week,flight,9dbf7961-8456-4ac3-86cf-0a72c015cc0f,0
+what does us stand for,abbreviation,9d49a2ae-3741-4c81-a0e9-75096be068bb,6
+list all flights on continental leaving denver on sunday after 2134,flight,892b51c2-099c-42b5-91cc-fef2e70c0e67,0
+show me round trip fares between san francisco and washington dc,airfare,f8f43bb1-2a1d-4dd2-99bb-9bee40c95872,1
+flights from phoenix to milwaukee,flight,9325fb3b-c4c9-47cf-97fa-9a4e85087e67,0
+find travel arrangements for a one way flight from san francisco to dallas,flight,e3b75848-c895-49f2-ae86-2e56396371a2,0
+show me the flights from san diego to san francisco on southwest airlines,flight,a1ed91a4-37ac-4ed2-9b31-9b046f627df6,0
+what is the airfare from pittsburgh to atlanta,airfare,8cb827d2-44bb-4ac6-8e70-6295c632498a,1
+what flights are between boston and atlanta on july thirty first,flight,b6b6a7eb-14fe-474b-9ecf-352433878e60,0
+please give me flight schedules from baltimore to philadelphia,flight,2ff67176-75b3-4d7b-aa2e-7c7adaa0e494,0
+does american airlines fly from boston to san francisco,flight,5ba73a46-7f4c-40e9-be1b-153e24e9a916,0
+show me the last flight on wednesday from atlanta to denver,flight,9c430df7-8b59-478f-9a07-f758adf36a91,0
+does continental fly from denver to san francisco,flight,653f1651-0d3d-4839-a833-65425d3a0f0f,0
+i need a flight from new york to toronto thursday may six arriving by noon,flight,08aeb6b3-8fd3-4e2f-855c-01c06002e80a,0
+is there a continental flight leaving from las vegas to new york nonstop,flight,6d07e267-9780-478b-a394-981d01fc66e5,0
+flights from baltimore to dallas,flight,ec5cec9d-9a08-40d8-8ca2-05633dde26a7,0
+show me all flights from oakland to philadelphia on saturday which serve a meal,flight,36fc58b5-6a09-4c25-ab0f-6f314e724aed,0
+which airline has the smallest plane leaving pittsburgh and arriving in baltimore on july fourth,airline,79d08b55-1fb0-44d8-9a97-1f7ecaade680,4
+airline and flight number from columbus to minneapolis,airline+flight_no,636f9ef3-e65e-4c08-9cda-7cb5685667cb,12
+what are the flights from kansas city to burbank on saturday may twenty two on southwest,flight,bcefc4c1-4eb6-42f5-9aa4-b899106b538f,0
+is there ground transportation between airport and downtown in boston,ground_service,a8a2de09-94ad-496d-bdc3-2b62795e262c,2
+i need a flight this sunday from miami to las vegas and i would prefer a morning flight,flight,beba1648-f4e4-4966-8dea-e7a5bfdb2fe7,0
+what 's the cheapest flight from denver to pittsburgh for both one way and round trip flights,flight,5ed66a21-c9fc-4940-9c59-1e7e41284327,0
+i would like flights between boston and atlanta on july eleven departing at one in the afternoon,flight,c691f4cc-c586-436f-882b-b5108bce562b,0
+i want to know the cheapest way to fly from denver to oakland,flight,6de1ff84-fd8e-4fb6-a7cf-74f5f269c775,0
+what does nw stand for,abbreviation,03fc7b6f-8be8-41a7-bfe9-6d14c6b32ea6,6
+are there any flights from denver to atlanta which connect in pittsburgh,flight,4429481f-6639-4ead-9612-b3befe0c4385,0
+all northwest flights with stopovers in denver,flight,46da19d5-7ff7-415e-984a-2ab452a482b4,0
+show flights from denver to oakland arriving between 12 and 1 o'clock,flight,7a5f155d-9237-4ba0-9532-c15521d6320e,0
+what 's the fare for delta flight 217 from dallas to san francisco,airfare,f0a4ce52-4dff-4892-926b-cc12d2574fcd,1
+is there a nonstop flight from denver to san francisco,flight,b215c88b-56b9-43b8-b0bb-f7c8fec3c24e,0
+how much is a round trip first class fare between boston and washington,airfare,6d5f7763-daf6-435e-917d-c7f09a835198,1
+show me ground transportation in denver during weekdays,ground_service,8d88fa68-e6d6-4208-8747-16fde3be748b,2
+flights from oakland to san francisco on january twenty first 1992,flight,01bd30c2-246a-4a5e-8e24-2a4eb415658a,0
+show me all flights from pittsburgh to baltimore which leave thursday after 3 o'clock pm,flight,9d66ea9a-715f-418c-86ca-612ac6099e9c,0
+dl 296 denver to philadelphia what is the fare,airfare,6a491c20-2cbc-4da5-84fc-618f5202cb0c,1
+show me the flights from boston to pittsburgh on wednesday and thursday,flight,e5d95529-ff4d-4c50-ac53-93e7776d4e7c,0
+list all the flights that depart from general mitchell international,flight,4703c194-788a-47b2-b1e6-f9585243d121,0
+all round trip flights between new york and miami that are first class,flight,d70cff97-5a1c-4c73-80d5-435b5432932c,0
+list all flights from boston to san francisco on united airlines,flight,d595621d-759b-42f1-a48d-a87d13bae200,0
+rental cars in boston,ground_service,6ecfc1f9-dd26-4087-9228-00fe5423e07f,2
+show me the evening flights from philadelphia to atlanta,flight,72671d2c-8b2c-43f8-a119-b54df19f6f0d,0
+does any airline offer dc10 service between denver and boston,airline,18f4deb5-e831-4c98-9621-826437b34429,4
+show me the flight that leaves philadelphia in the afternoon and arrives in the evening in denver,flight,2c36064a-70c4-4bd9-ad51-27b1df03c364,0
+i need a return flight from philadelphia to boston,flight,93aab4fd-469c-4f76-ae5b-7fdf16b990e8,0
+what 's the cheapest one way ticket from baltimore to atlanta,airfare,ccf0ceb9-2631-4f6c-a7a1-d7df103c963a,1
+show me times for flights from san francisco to atlanta,flight_time,7925204e-750e-419a-8b03-b9dafedcc2e3,5
+what flights go from philadelphia to san francisco via dallas,flight,65a60d4a-be81-474f-8000-058a9380bb3b,0
+show me flights from denver to washington dc on a wednesday,flight,0ffaf9dd-cf2f-41a7-afa0-1bd48726c467,0
+what flights do you have available from denver dallas and pittsburgh into baltimore,flight,0919f64f-7e9b-4bde-a310-953618d7845c,0
+all northwest and united airlines flights with stopovers in denver,flight,ac9e9102-0719-491e-a04a-1856cb6c11dc,0
+what is the fare for flights from denver to atlanta,airfare,e4202601-d3f7-4cc1-a90a-52c49e35f6bd,1
+i 'd like to fly from boston to oakland through denver,flight,bbbd9f04-4600-476c-93ab-ca9e27d1be02,0
+show me the earliest flight from boston to san francisco,flight,5e2404a8-2f4c-45ae-b164-6263bf76f428,0
+please give me flights from atlanta to boston on wednesday and thursday,flight,a6df67ab-8f90-4aad-a37d-4f3128d7e9eb,0
+i would like a flight that leaves on friday from philadelphia to dallas that makes a stop in atlanta,flight,f01b6c54-239b-486f-a5f9-b18f0ba33072,0
+show me the flights from dallas to san francisco,flight,7a26e677-f3bb-468c-87d3-b0d84584668c,0
+what flights are there arriving in chicago on continental after 11 pm,flight,f0c867d1-a717-4b81-bc98-994ff677fa15,0
+what are flights between boston and pittsburgh on august tenth,flight,a1c1c2e4-5eda-4046-a696-ed9401b7ff48,0
+does midwest express serve montreal,flight,2af53954-b75d-4672-a4fb-fb91d8fc4c6d,0
+what ground transportation is available in newark,ground_service,5f699d0e-ca44-47cb-8122-ea2cfc374286,2
+morning flight from boston to philadelphia,flight,caa85a6e-7522-4bf7-ac30-654eef1ca9fa,0
+please show me the cost of flight ua 201 from boston to denver and flight ua 343 from boston to denver,airfare,f799036e-56a3-40f9-9052-1c3990099531,1
+all flights from denver to pittsburgh leaving after 6 pm and before 7 pm,flight,2eafe8be-5ab6-4899-97f8-d0cd391e1db8,0
+what type of ground transportation is available in washington,ground_service,3fc8f7b7-0e0f-4e33-a6af-ee753c4a816d,2
+list the flight from philadelphia to san francisco on american airlines,flight,a1a79c9f-67da-4706-89de-0c4b5bbeff70,0
+round trip air fares from pittsburgh to philadelphia less than 1000 dollars,airfare,e90fc26b-b4cd-405e-bfdc-747367df1b3c,1
+i need a flight from philadelphia to dallas that stops in atlanta,flight,a9c17c3e-04e4-4984-80b2-c17ddca6ea99,0
+what is the round trip fare on continental 1291 from denver to san francisco and return,airfare,f09275f1-6fc1-451b-81ac-85250dd394f7,1
+philadelphia to san francisco,flight,cd758a78-3c7c-4ef8-82f1-3a4c50738921,0
+show all flights from pittsburgh to san francisco,flight,764ba37d-a187-4f43-b22a-bae83f3e71d7,0
+show me all flights from boston to atlanta which leave atlanta after noon tomorrow,flight,cd97c4dc-7001-4228-88ab-a7822741c142,0
+i want a flight from boston to atlanta,flight,4cbf9313-6023-4265-a6ca-4b5673012fc0,0
+is there an airline that services boston dc and dallas,airline,b7027afa-e96b-4e27-b709-7fd34ec0149c,4
+i 'm going to leave philadelphia and i want to go to san francisco and i want to fly first class american and i want a stop in dallas can you please tell me what type of aircraft you will be flying,aircraft,f7701d81-fae6-4504-bb28-415a68a8e935,8
+show me the flights going from pittsburgh to san francisco on monday,flight,a1fe5740-c2ac-4b6a-a162-843f0997b634,0
+i want a flight from montreal quebec to san diego california that leaves sunday,flight,306775af-ea99-4522-97de-a2f22ba73bab,0
+flights from jfk or la guardia to cleveland,flight,a62d91fc-0f15-444c-9908-5e087b81cd42,0
+show me the flights arriving at love field from all other airports,flight,5b0cb74a-7ede-4d7b-9129-0e07b634094f,0
+please tell me the type of aircraft used from atlanta to denver before 12 o'clock noon,aircraft,dca59151-1e81-452a-9b96-22abee3bca41,8
+give me the flights and fares on december twenty seventh from indianapolis to orlando,flight+airfare,bbcb5a0f-c128-4cea-a4a5-e97423bc937a,21
+what are the first class fares from dallas to baltimore,airfare,d5c37014-9515-427c-af25-83f70d721644,1
+ground transport denver,ground_service,18637835-c14e-4857-a892-9140050ff6cc,2
+do you have ground transportation between airport and downtown in boston,ground_service,473f70e7-f7db-44c4-a98c-c7466c82c29a,2
+show all flights between san francisco and philadelphia for september fifteenth,flight,ff77cfca-d420-4e4c-939f-38791f6ae368,0
+flight from cleveland to nashville,flight,f5f9cbae-0d19-434f-959e-69876f6e2b40,0
+what is delta 's schedule of morning flights to atlanta,flight_time,e3b8c28b-1fef-438a-b4ff-92473272ee9d,5
+please list all of the flights leaving atlanta heading to baltimore after 8 pm wednesday and before 9 am thursday,flight,790d427b-d37b-47fe-a852-f11f83c92d19,0
+what flights leave from chicago to seattle on saturday,flight,342443f9-acee-4724-8008-4cfd86b97c9a,0
+find me the earliest flight from boston to atlanta and the latest return from atlanta to boston within the same day,flight,91599817-c1a3-474f-a66e-ec29f480620b,0
+i would like the time of your earliest flight in the morning from philadelphia to washington on american airlines,flight_time,729bb4ab-af43-41e1-9dfb-2c1264cbd123,5
+flights from westchester county to san francisco daily,flight,6179ba20-7210-4d4b-8050-5c74ceaf53f5,0
+now show me the flights from memphis to cleveland,flight,23d87198-c607-4272-b97b-9dca907956af,0
+what 's the schedule of flights from atlanta to boston on august first,flight_time,f51f0c0d-3a3a-47a3-9ec9-2fe125a8d1c3,5
+is there ground transportation from the milwaukee airport to the downtown area,ground_service,5bacb0b3-2aea-46a3-ae57-36c1e8f68cdb,2
+please list pm flights from boston pittsburgh,flight,922a2ee0-2bed-4106-a3d3-7e4eba3fc38f,0
+show me flights denver to washington dc on thursday,flight,c5c1b9a1-01be-44f6-9d12-b3ec360aa3b5,0
+all flights from boston to washington dc after 5 pm on november eleventh economy class,flight,a38cf9fd-94c9-4055-92b9-5c90fd09132a,0
+can i bring a dog on board,restriction,47bc9b3b-fe46-4859-ae1a-4c238edd9f7a,15
+list all us air flights from miami to cleveland leaving on sunday afternoon,flight,d29625dd-b903-4bf2-a95c-a18a16a07c40,0
+what 's the earliest flight from nashville to tacoma on american on tuesday the eighteenth of may,flight,f3d81951-9d5d-49a7-9015-a516a2ed068b,0
+what are the coach flights between dallas and baltimore leaving august tenth and returning august twelve,flight,a7b9b912-676c-4ec0-ab7d-9c4b6cca549b,0
+show me the cheapest fares from miami to new york leaving on a sunday,airfare,a4d1c4df-820b-406a-bf51-b7d56d399485,1
+list flights leaving dallas on saturday and arriving in san francisco before 4 pm,flight,3dfc843d-c066-4bd0-ba52-94681a812e1e,0
+all flights and fares from atlanta to dallas round trip after 12 pm less than 1100 dollars,flight+airfare,709c7c4d-3d9e-4bd3-894c-79ffeaa866dc,21
+what is the ground transport in denver,ground_service,354d1d75-7b6a-495d-bd56-35ad70abaf0c,2
+i would like information on any flights from pittsburgh to san francisco leaving thursday evening,flight,2e1a9c54-86c8-4a4a-b803-bec28fa6736b,0
+show me all fares from new york to miami leaving on a tuesday,airfare,01fa7095-2f86-498c-9e4d-c760fdabbd91,1
+i want to fly from boston to denver and i don 't want any stopovers and i 'd like to fly only during the afternoon,flight,2702c0a7-055b-489f-a9f6-ea1af430a209,0
+please list the friday flights from houston to milwaukee on american airlines in the evening,flight,00ac52cd-32a9-46eb-a544-a524d9804e08,0
+please list the flights from denver to phoenix,flight,c20b22d0-133b-4178-a50d-721fd0a384a7,0
+which airline has the most business class flights,airline,fe539d09-5b6d-42d1-b25f-7fdbf8bb5056,4
+find the flights from boston to san francisco leaving after 6 pm,flight,3f7ddd3e-e9ca-4db2-9a60-f29ec8617368,0
+please give me the flights from boston to pittsburgh on thursday of next week,flight,02c5e338-0a58-4379-9c60-2d1ba1b80a00,0
+explain the restriction ap 80,abbreviation,31687794-b386-4adf-b88d-1b6cbfff937b,6
+what ground transportation is available from the pittsburgh airport,ground_service,0b17ea20-320b-46f6-81c7-d0914630762e,2
+show me the cheapest flight on june fourteenth arriving in baltimore starting from dallas,flight,934a725f-a60e-413c-9e7d-0d47a137a88d,0
+show me the flights from boston to oakland,flight,5e74c64b-63e7-4ee0-9fdf-21efcae53663,0
+i need to make a trip starting in boston going to dallas denver oakland and back to boston,flight,4b8e1d8c-4c9f-4e3c-b425-bbc4332fd84a,0
+what does ewr mean,abbreviation,b539ecce-1db2-4230-98f5-31a5f99358da,6
+i actually want to go from ontario to westchester via chicago,flight,1cee91f3-1dcf-4327-80a2-95a04375f883,0
+i 'd like to see the flights from baltimore to philadelphia,flight,2d7e86f5-5ea9-43b3-bcb7-758ce850858b,0
+i need to catch an evening flight from boston to philadelphia on august first,flight,de92d8a7-7311-4777-baf4-040535eda8cb,0
+where does canadian airlines international fly,flight,b0a2fe2c-e382-425d-be0b-d5a0fe989f5a,0
+i need a flight from phoenix to detroit leaving monday evening,flight,f2b8fd56-3043-4726-a530-ba6ed713e8ae,0
+i want to travel from atlanta to baltimore early in the morning first flight,flight,6a3effa5-5509-4341-ab71-9c4a8f526fbf,0
+i 'd like to fly from boston to san francisco could you find me the cheapest fare,flight,767ef14f-d954-42e8-8b7e-d386babcca13,0
+a first class flight on american to san francisco on tuesday in the next week,flight,e46b5730-94ce-4724-aa81-5be89822e25f,0
+i 'd like to fly continental airlines between boston and philadelphia,flight,29a0e1d0-46d3-448d-aafc-3810dca7a5d0,0
+show me flights from san francisco to pittsburgh on a sunday,flight,efd8c375-23d7-4207-af4e-de6afa4c1bd0,0
+i would like to fly from baltimore to san francisco on eastern airlines,flight,4390781a-45b0-4d3b-a5dc-4e9fbfb65bfa,0
+list all flights arriving and departing at general mitchell international,flight,0a4a9bbd-dd05-41f8-890e-64599cda5739,0
+how many flights does delta have with a class of service code f,quantity,72228ade-3b19-4632-8ab0-5c8dcd6a35b7,3
+list the nonstop flights early tuesday morning from dallas to atlanta,flight,e2c9135f-7b6f-41a7-8e9b-50dc66873782,0
+what are the flights from dallas to baltimore,flight,0e22f40a-eee7-4b5c-8b67-544861cc1f5b,0
+how many nonstop flights going from dallas to oakland july twenty seventh,quantity,cb2bf213-866a-41bb-a4a3-4ee46904cc42,3
+okay i 'd like a flight from boston to san francisco that leaves before 8 am,flight,f12aa2ff-1398-4369-8f46-c5a61c2a782b,0
+please list the cost of all flights from philadelphia to denver airport next sunday,airfare,a199b1e7-e951-40c0-8ec2-99e5178305ee,1
+are there any flights from atlanta to baltimore,flight,3eb083a5-c83e-4e26-a23c-99bda4501e36,0
+what flights from san jose to dallas on friday afternoon,flight,7079030c-4777-458e-9166-72d0facfddf1,0
+looking for a flight from dc to minnesota,flight,61d8d8e9-0410-4d87-9bd2-8fbce90d32cb,0
+what ground transportation is available in atlanta,ground_service,5b8fc0cf-3754-4076-ac14-e40738457e64,2
+what flights from philadelphia to atlanta,flight,a7d1fd56-85f7-42ae-8eb5-3af38906cdf5,0
+american flights to houston from cincinnati,flight,6a618805-577c-408e-b65d-0aa89caadf55,0
+flights from denver to philadelphia include fares,flight,d9cd9215-b54c-452f-8792-a4472ca8edd5,0
+on a flight from san francisco to atlanta that leaves before 8 am is there such a flight,flight,6f10a20a-923e-4e20-a989-67e23a5df4cb,0
+find me a flight on united from boston to san francisco with a stopover in denver,flight,5e125cde-17b9-480d-8489-a5606d5cdd89,0
+show afternoon flights from houston to dallas,flight,5517ae8f-6d1f-469d-b884-3ebaa76c7ce7,0
+does flight dl 1083 from philadelphia to denver fly on saturdays,flight,87b28dd7-38a4-4b2d-a122-b574205e806e,0
+what is the cheapest flight from denver to pittsburgh,flight,c13a0a14-78c8-4419-80b9-cf3318400058,0
+how many first class flights does delta airlines have,quantity,f67af1c3-f351-43f4-84af-359296b6f808,3
+how much does a first class ticket cost from boston to san francisco round trip,airfare,3c4304eb-3ee3-4127-ba97-91ada57f5b7f,1
+i need a flight from charlotte to newark leaving today evening,flight,60d91b2d-2a87-4782-a451-79c7ac3787bd,0
+i 'd like information on a flight from denver to san francisco on united air,flight,2f81b3ad-0bac-43a1-9513-7a2b2eb9ccca,0
+what airport in new york is closest to downtown,airport,25ace262-8b96-45c2-91cb-e0a8104441f7,13
+i 'm requesting flight information on a flight from san francisco to pittsburgh on friday,flight,6594d02c-34f4-47ca-8949-b808d7ed3e6a,0
+what is the fare on november seventh going one way from san francisco to oakland,airfare,637eee36-effb-4f19-ba30-29ad94198c8e,1
+i 'd like to see flights from pittsburgh to atlanta,flight,fe28cbed-68de-4fcc-88a4-9567385c5d24,0
+please list the flight times from boston to pittsburgh,flight_time,12ee5b81-4f71-40e6-8416-0cd6301ec3fd,5
+what is the cheapest flight from long beach to memphis,flight,2b96c32c-e514-4ab0-ba3d-5483161a22be,0
+show me the flights from salt lake city to st. petersburg late night on tuesday,flight,e44d232d-fe32-4aea-bbfe-684eba6f008e,0
+on monday show me flights from baltimore to dallas,flight,52e2772d-fb04-438f-8e4d-e7b17427cef1,0
+what flights are available from san francisco to pittsburgh on monday morning,flight,3dc407da-ffab-4415-84aa-b0ca67895a75,0
+what 's the fare from washington to boston,airfare,0a8ba968-1abc-4bd9-bad3-fa48d6eaecc4,1
+show flights from baltimore to san francisco between 6 pm and 8 pm on friday,flight,2b7e1c25-a40e-4645-9170-0afb302bab05,0
+what is the fare on the first flight from atlanta to denver on thursday morning,airfare,f074f63b-6bc0-42c3-b687-0561f60737b5,1
+what do you have from philadelphia to dallas on saturday morning,flight,29243bd0-b05a-4fc5-a8a0-16b4694a3f92,0
+which airlines have flights from san francisco to washington by way of indianapolis,airline,7625bbb7-2a17-4cc7-be38-5985763a8b26,4
+show me flights from boston to denver on wednesday,flight,5598655b-8ad3-4530-9436-d2efec84a08b,0
+all flights from cleveland to newark,flight,025d7b92-3702-473a-b775-d1a1e2c62b58,0
+flights from cleveland to kansas city on monday,flight,a79275bd-230a-4dd6-9ed0-b0807fe15ee8,0
+what flights go from san francisco to boston and leave after 1 o'clock,flight,8cb2fc0c-83bb-4091-99d7-bb6648bf3f67,0
+i need a flight from st. petersburg to charlotte which will get me into charlotte by 5 pm or as soon thereafter as possible,flight,1b742892-f0e1-471d-914d-b3778e54e1e7,0
+i want the flights from toronto to san diego that stop in st. louis,flight,576ded6c-14e6-4d97-90e5-c07c69110059,0
+please list all the flights from boston to san francisco leaving before 10 am,flight,b77203b0-29f7-49ae-a3be-96781847eef5,0
+i want to fly from milwaukee to orlando,flight,f7a80151-de11-45a0-b207-507041b6409f,0
+list all flights from pittsburgh to philadelphia,flight,48fed488-259a-4616-8a49-f7047accb50d,0
+show me flights on monday from philadelphia to boston after 7 am,flight,fe7e964b-05f0-4f53-8647-a553bf543097,0
+show me delta flights from dallas to denver,flight,79ae2c4e-56e6-47aa-b3d0-a7d841348318,0
+give me the list of flights for continental airlines between boston and denver,flight,3d752e01-bc89-463a-884e-cddcd4ec5cc5,0
+flights from indianapolis to seattle,flight,a238fb9d-b184-4631-b654-15cba7406c6e,0
+i 'd need information please on a flight from washington dc san francisco california,flight,566a97c4-219c-4170-8e0f-75d012603f8b,0
+please give me the flights from san francisco to washington dc,flight,e5398383-0dbd-416e-9bd8-a252e904e27d,0
+what is your cheapest flight from pittsburgh to denver,flight,c8501fb6-c624-4f3a-8fab-0ba892c430d3,0
+what are the cheapest one way flights from atlanta to denver,flight,a15b5b63-759f-4256-b711-15a8946cfcc9,0
+list all day time flights from pittsburgh to boston,flight,93f3b411-887b-4ef2-86cf-b74b44860478,0
+what is the least expensive flight from atlanta to denver leaving on october twelfth,flight,911ba6c5-262d-43ca-a59b-1552ef4c16ba,0
+display all flights from denver to san francisco on august seven,flight,030b94cb-52e1-4255-8e97-6354414858d1,0
+list nonstop flights from houston to dallas which arrive after 8 pm,flight,76915ba3-a838-49cb-b290-62a8782cfcae,0
+show me flights from dallas to baltimore,flight,8a7dfb99-fc2f-4770-b696-3236d4bbbc5c,0
+what economy flights are available from dallas to baltimore on july twenty fifth 1991,flight,d405034e-ab06-4fca-a529-43bbc6a6b9df,0
+i need a cheap flight from baltimore to san francisco,flight,45d67177-184e-4636-8c03-c6105acbc368,0
+what is ua,abbreviation,f3333c6e-3107-4408-9dc9-7b3c6c219ff8,6
+what are the flights from cleveland to indianapolis on wednesday may twelfth on either twa delta or continental,flight,ddffff5e-5393-4b4e-ad4b-35e4786c39a5,0
+give me the flights leaving denver august ninth coming back to boston,flight,b2c8d835-dcc4-4ca0-b581-f3bfec747edd,0
+list the wednesday flights from denver to baltimore arriving in baltimore between 1115 am and 1245 pm,flight,79329df3-9ac0-4aa9-b964-9dd7ae772dc6,0
+show me flights from san francisco to minneapolis,flight,7ea940ef-10cd-4296-8306-aaead0ab85cd,0
+what are the cities served by delta airlines,city,d688b37d-4a78-4a94-ad8e-c18a190677f4,9
+please list all flights tuesday dallas atlanta,flight,0b1dbe53-a99d-4d07-8f64-ead096098570,0
+could you please give me the round trip fare from denver to atlanta,airfare,0dd3069d-9378-44fd-af43-7121d652c358,1
+leaving washington going to san francisco the latest flight,flight,e8e0de19-07d1-4922-8853-3c42c0bad00d,0
+do you have a flight from charlotte to atlanta next tuesday,flight,52975a00-4181-40f3-976f-c95264216266,0
+what flights are there on wednesday evening or thursday morning from denver to sfo,flight,e7e315b0-2bbe-486b-9fa5-6be64b65955f,0
+i would like to book a flight from charlotte to baltimore on april eighth,flight,872849db-2929-42b2-aeac-418ee4fc70dc,0
+i would like to fly from pittsburgh to atlanta on us air,flight,0a6a658a-5dc6-4681-a8f3-a71bac464e22,0
+list the flights from toronto to salt lake city,flight,33510b49-fc7a-4073-bb2b-6e04c7c6cb35,0
+give me the flights on tuesday from los angeles to pittsburgh,flight,a0a9efde-b71e-4bf4-bfc6-044c25071726,0
+show me all flights both direct and connecting from dallas fort worth to either san francisco or oakland that depart after 7 pm,flight,d5ee4414-9497-4d52-87e5-efe5bf4ee8f4,0
+show me the latest flight from las vegas to denver,flight,52bd5bf9-d5a1-4985-be50-549a0b5ef90e,0
+show me all the flights that arrive in baltimore from anywhere between 1850 and midnight,flight,f36b8b8c-003c-423c-86b4-366fc04ffda7,0
+flights from pittsburgh to baltimore arriving between 4 and 5 pm,flight,fd46237f-72a6-4c88-af53-ee5cf42cfdc5,0
+on september fourth i 'll be traveling from pittsburgh to atlanta can you tell me what flight would be the cheapest,flight,a7746398-ba7a-45ab-85c5-724dc22b43c1,0
+show me the least expensive flight from miami to cleveland on sunday after noon,flight,9a38cde5-5e7a-4a3b-b83f-1dbc0439a7ed,0
+what is the cheapest way to fly from denver to oakland,flight,c5c05c6a-b02c-4f95-8360-8abad8931eab,0
+what does fare code qx mean,abbreviation,cc596d29-a11f-4d1c-9cc7-77961fd62165,6
+show me first class round trip flights from new york to miami i want the cheapest first class fare please,flight,cfb4b51e-5a8e-4d20-95d5-81223ed245c1,0
+can you give me the latest flight from atlanta to denver on july seventh,flight,45428b3c-e777-4cac-b59b-bcdcbc6e02f9,0
+what are your flights from dallas to baltimore,flight,370fbade-bb2f-447c-9f1c-74c8b1cf242b,0
+all flights and fares from pittsburgh to dallas round trip after 12 pm less than 1100 dollars,flight+airfare,5dc3d758-7f44-46f4-a8bb-34e62f88a54a,21
+i need a flight from boston to san francisco via dallas fort worth,flight,15ae6cc6-f1e9-45e6-861a-2c9509e52cc2,0
+flights from houston to los angeles departing after 1026,flight,d2af8f79-3649-4896-b9cc-48eb039296d0,0
+i want to go and take a plane in atlanta and fly to boston,aircraft,f17e8ddb-04f6-4948-87ea-8f651f07c90e,8
+what flights can i take between boston and atlanta so that when i leave boston i will have the maximum amount of time on the ground in atlanta and still return in the same day,flight,985dafee-1878-4425-b452-6236bcd2820e,0
+what is the least expensive business class flight between boston and san francisco,flight,be915089-d1ef-462d-bdb9-357d1f5f9af0,0
+i want to fly from dallas fort worth to philadelphia,flight,f85379e8-418a-49e8-88d3-bb4540ea21ca,0
+show me the flights from st. petersburg to toronto that arrive before noon,flight,e4827520-0ad0-4c66-a2bf-8029b626ddc1,0
+what kind of airplane goes from boston to san francisco before noon and what flight and flight number,aircraft+flight+flight_no,9311f390-7520-4d49-9187-c6ef9dbfac32,20
+is there a flight from philadelphia to oakland with a stop in dallas,flight,8d47a63f-6f29-4e56-88ef-725262ca5856,0
+what flights from washington to toronto,flight,84d8e50c-cf3c-4814-9ff3-329899fe197b,0
+what is the abbreviation for canadian airlines international,abbreviation,64b6d494-38c3-41ea-9f3b-9d23dfe68a88,6
+give me flights from atlanta to baltimore,flight,b391df35-4ca8-40b0-8a88-d1a23bc46c89,0
+show me the flights from pittsburgh to los angeles on thursday,flight,bdc5459e-9191-4e56-95c0-308a5f0269cf,0
+now list for me only the united flights that flight from oakland to boston,flight,7480e6c1-ab54-41dc-a62a-b773e67b41d1,0
+how much is the cheapest flight from denver to pittsburgh,airfare,36513713-e1e5-432f-9e66-190e3c86181c,1
+does midwest express serve indianapolis,flight,644c0918-859c-4f8e-9b24-0f82011f5c5a,0
+round trip fares from pittsburgh to philadelphia under 1000 dollars,airfare,6d49bfff-fb08-4377-a177-01cce8e63617,1
+what does mco mean,abbreviation,85f4378a-caaf-4e64-b76c-4eff5479ce6b,6
+also show me all flights from oakland to denver,flight,703e339c-36c3-4ff6-99ec-e7a7a73ddfe2,0
+show me the flights from boston to san francisco that arrive in the afternoon,flight,cd534d5e-99f6-4523-a24c-80a2b106066d,0
+what 's the first flight after 1 pm leaving washington to denver,flight,37ddf361-be35-42df-9e71-8e2a445d7279,0
+information on ground transportation in denver,ground_service,f465f85e-9357-4fd2-a2c5-759907d7ac9c,2
+what flights do you have from boston to pittsburgh on wednesday of next week after 6 pm,flight,b2f65014-aed7-4cf7-829c-ebf8e6935712,0
+i need the cheapest direct flight from atlanta to denver leaving on may seventh,flight,41df4244-3cae-46c8-b0c2-4bfb9c9efce6,0
+i need information on flights for tuesday leaving baltimore for dallas dallas to boston and boston to baltimore,flight,c600c344-f8f7-4274-a648-94e26a64be0f,0
+what aircraft is co 1209,aircraft,825e85ce-e9dd-468e-aeb7-88ef41e98eaa,8
+do you have a flight from san francisco to atlanta around 8 am,flight,496cf247-5981-4d94-b25a-b0c891b740ed,0
+okay we 're going from washington to denver first class ticket i 'd like to know the cost of a first class ticket,airfare,3dbb6253-853e-45cd-aa79-ce75f8c15d39,1
+i would like to know the flights that are available leaving out of pittsburgh to san francisco on thursday night after 9 pm,flight,d3c0c635-eeab-4630-b7c0-6088943f7055,0
+ground transportation for st. paul,ground_service,c0bbc548-bb06-4ad8-b6b3-e707f1dfef75,2
+tell me about ground transportation between orlando international and orlando,ground_service,aaf3c22c-1dc7-46ba-871e-ab9ce7f14e98,2
+what are the nonstop flights from kansas city to burbank arriving on saturday may twenty two,flight,4e1e77b5-e7d4-47a6-b269-53a6c04a7211,0
+please list all flights between indianapolis and orlando on the twenty seventh of december,flight,cd368e8a-91b9-41c9-afcc-5a0695016e27,0
+is it possible for me to fly from baltimore to san francisco,flight,76d707a4-e866-450f-b532-7a367f43222f,0
+list flights from pittsburgh to san francisco,flight,16cf0031-716d-435b-a0fe-7f55fb4457be,0
+what is the latest return flight from atlanta to boston,flight,a1e6ca24-e3a4-439a-9c7a-e88c7e9f3e6b,0
+i need a flight tonight from charlotte to las vegas with a stop in st. louis and i want dinner,flight,276f7e53-e9c1-46ac-b5c6-7620cae63b37,0
+i want an early morning flight between philadelphia and pittsburgh on tuesday morning,flight,86bfe79d-c0ea-4cf5-97a8-eb005dd48e37,0
+i need the cost of a ticket going from denver to baltimore a first class ticket on united airlines,airfare,4d881212-b3a8-4363-bc90-6cfaa33bea65,1
+flights and fares from denver to oakland,flight+airfare,cb59c4fb-69b9-4dbc-b275-ff5cdf3c6c1d,21
+what is the least expensive one way fare from boston to san francisco,airfare,1e35159b-ae7b-47be-acaa-9b48cca7433f,1
+list number of people that can be carried on each type of plane that flies between pittsburgh and baltimore,capacity,7331adc4-8686-4fc0-83e7-72471f13e6e2,16
+what is the cost of limousine service in philadelphia,ground_fare,89969140-d78f-49d3-85bc-182c63e5d25f,11
+list all flights from chicago to seattle on continental which depart on saturday and serve meals,flight,acdac415-b014-42b2-9e18-e793f9bac051,0
+list the northwest airlines flights that leave denver before noon,flight,ea5b48f7-e8f4-47d4-88fb-8c4b411a1067,0
+what are all of the flights into and out of atlanta 's airport,flight,0ffaa0bf-64a7-4c13-be23-5e8b4b24a400,0
+show me all round trip flights between houston and las vegas,flight,a99c13bf-e46b-458e-ab63-5d4dae7b9dca,0
+i would like to go from atlanta to denver on tuesday,flight,9fc8824b-4196-45fa-a953-7bdef4029591,0
+can you show me the price of a flight to washington from atlanta on thursday morning,airfare,53b38d56-e27f-450f-a1f6-559a64143f03,1
+what flights go from dallas to denver leaving after 3 pm,flight,550e6553-bdcf-4720-995e-e72b229c9897,0
+what is the schedule of flights from boston to denver next monday,flight_time,3df64ec8-a535-4439-98bb-8519faca899b,5
+i need to fly from denver to san francisco tuesday,flight,473c6757-63f6-44af-a006-2277d353bf0d,0
+i would like information on flights from baltimore to atlanta on thursday arriving in atlanta before 6 pm,flight,c2daa8ca-79ca-4762-b966-de4c2645b54b,0
+list all flights from burbank to denver,flight,231a2317-9e35-46b6-9e73-4f18b3bd98cd,0
+what does the fare code f and fn mean,abbreviation,d66b936f-e939-4f43-9cd1-ead08a938565,6
+i would like to arrange a flight from denver to pittsburgh,flight,442ab0cd-1fce-4f1c-b119-77bdbe7e688d,0
+show me continental flights from chicago to seattle on saturday morning,flight,56cbc3f3-a520-4a68-b69d-e8fc203b02c2,0
+ground transportation in westchester county,ground_service,ff982388-1133-45da-a8d8-3d8ad2890cf9,2
+what flights leave charlotte north carolina and arrive in phoenix arizona on monday before 4 pm,flight,ca4a39e3-c283-4b76-832a-d727790f9c22,0
+show me all daily flights out of boston that have coach class,flight,41c9052c-ad31-4cf5-b83c-5757b1f875a2,0
+please show me all round trip flights from new york to miami,flight,69b6ec3f-0c1d-4393-b9f9-8100a6900ad7,0
+i would like to book a flight from los angeles to pittsburgh on june first,flight,f1072b76-556b-487d-a02f-6036fe9333c8,0
+show me flights first class from san francisco to pittsburgh leaving on tuesday after 8 o'clock in the morning and before 12 noon,flight,e30ea657-2d04-4929-92cb-61308232aa3b,0
+how about arrivals for american in atlanta,flight,f15fc721-e04b-4f6d-8c00-31d988e134a9,0
+what first class flights and airlines are available from denver to baltimore on october fifth,flight+airline,f3aba683-44d6-4773-9ae2-9f5617f9346b,22
+what flights are there from minneapolis to chicago,flight,d0bb3678-e9b6-4954-8d1b-3e863e2fe0dd,0
+show me the airlines that use love field,airline,93d402cc-a0f0-4504-a138-5c8831f72042,4
+is there a delta flight from boston to denver,flight,30d89219-f705-4a4c-8119-60aa55fbdc2a,0
+show me the flights from san francisco to pittsburgh on tuesday,flight,0852595f-b996-4c0e-867a-12b167e2d069,0
+show me all flights from new york to miami on a tuesday with round trip fares under 932 dollars,flight,be6a3c46-4c0d-4999-b852-4b67b7bc4941,0
+philadelphia to dallas saturday,flight,2535ce88-1b61-4a9d-9fe6-3b260156ecf5,0
+show me all ground transportation in washington dc,ground_service,7cd1a172-3e06-44b9-aaa2-113d0b83b70c,2
+show flights leaving miami to cleveland on us air that leave after noon,flight,7b50b098-ffe4-48fa-83a9-a61cfca3f9ff,0
+i would like to travel from denver to pittsburgh,flight,dc86b85a-984f-42d3-abdb-6950374a6984,0
+i need a flight from kansas city to newark on the first of july,flight,27d04c6b-56e7-4350-9782-31e11d263192,0
+what are the flights from memphis to tacoma,flight,bb8e51c7-437f-4728-a0e5-81eddf8e0c1d,0
+flights from cleveland to kansas city,flight,6f801c84-c92d-4818-b478-a998ca9db19e,0
+what is your earliest flight from boston to washington on august twenty seventh,flight,6571b8a7-a4bb-407e-87bf-db75976c7d9f,0
+i 'd like a flight on united airlines from dallas to san francisco that leaves after 815 am,flight,6a94c8ae-31cd-469f-8128-48a3b7136a6d,0
+show me the nonstop flights from atlanta to oakland that leave in the afternoon and arrive between 430 pm and 630 pm,flight,417da11f-6aac-4102-a994-3d62179e7b33,0
+list nonstop flights from baltimore washington airport to oakland that depart in the afternoon,flight,558dac7b-ba22-453f-929e-18a118ba21dc,0
+show me all flights from charlotte to columbus,flight,f98899a9-62dc-4828-a166-d787ff3a956a,0
+flights from newark new jersey to cleveland,flight,6372cf87-95e9-4bd4-95ff-283b66e983c2,0
+show me flights from denver to boston on tuesday,flight,3c3b05f2-6105-4d82-b7ca-630284edd8f3,0
+how long does it take to get from kansas city to st. paul,distance,14153fe9-862f-46b4-8895-ce04f7460ced,10
+show flights on us air from pittsburgh to oakland connecting through denver,flight,8b78144e-7825-4574-bda5-d74291be07ed,0
+what flights arrive in seattle from on continental,flight,71750018-3e62-4922-8efc-1166c5811748,0
+give me flights that arrive in baltimore from atlanta,flight,300e8347-dee1-4799-84df-3cb227ad9891,0
+give me the continental flights from seattle,flight,7654d5ce-8ba8-400b-8209-2ee22e9ed3dd,0
+in the month of december are there any flights from atlanta to denver that stop in boston,flight,af87c912-8794-4432-9bfe-0275409dd00d,0
+what is the cost of a round trip ticket flying from boston to dallas dallas to oakland leaving july first,airfare,e866ee90-d9bb-4a79-8199-e2436abf12d2,1
+give me the flights with the fares from indianapolis to orlando on december twenty seventh,flight,bfb08b1b-0c65-482e-8264-919d230aeba2,0
+find me the latest flight leaving atlanta august seventh and arriving in denver,flight,8a9672ca-f29d-4b1c-a192-c66b3e231469,0
+list all flights from boston to san francisco with more than 3 stops,flight,6c927d02-1931-476b-b518-8b57aeff55e6,0
+ground transportation atlanta,ground_service,f654589f-46f9-4ae3-b169-b528a19ca03c,2
+are there any united airlines flights between boston and dallas,flight,53a90d6c-e347-4df6-a41c-bea67d724b9c,0
+is there a flight on continental airlines from boston to denver,flight,51278507-337b-475a-99c0-03f93601cca3,0
+i want information on flights from atlanta to washington dc i want to leave wednesday after 4 pm or thursday before 9 am,flight,38fb0797-416e-43ce-94bb-cf5267b0c05c,0
+show me the flights from all airports to love field,flight,2e05aaf9-2326-4c67-8447-986af63bbe38,0
+all flights from pittsburgh to dallas round trip after 12 pm less than 100,flight,5d0a5793-e273-4d7c-8a8a-c56c25122087,0
+where does continental fly to from chicago,flight,06a3dce4-7e88-4841-9b6d-6ff557c6b60a,0
+what ground transportation is there from denver,ground_service,82a7bef3-b197-442b-8ecf-2d1d189528a9,2
+what first class flights are available on july twenty fifth 1991 from denver to baltimore,flight,54195847-628b-456f-8c08-05d92d6afe4f,0
+next sunday flights from miami to cleveland after 1200 hours,flight,c1723974-ef30-4f20-8199-b08d071b6427,0
+on continental airlines any class service from san francisco to pittsburgh,flight,e3c44a88-36a8-4384-98fb-753efe924a5a,0
+which airlines have first class flights today,airline,58bf12c3-4c86-4781-b0a6-1cd53535564b,4
+give me a flight from tampa to charlotte on sunday,flight,d97261c8-d695-4fd8-a598-30c1dd676696,0
+what flights leave san francisco on monday night and arrive at atlanta later in the evening,flight,c5ddf975-554d-438f-9ccc-f7610173cec3,0
+how much is a round trip fare from nashville to seattle,airfare,9b0fdae9-7b3a-49b0-abe8-77850f1d6461,1
+okay i would like to know the type of aircraft used on a flight from cleveland to dallas please,aircraft,3fa301f0-fc96-4442-8cab-f93aa7d6d302,8
+what flights from milwaukee to san jose on wednesday on american airlines,flight,e69faabd-59b3-44f3-bd7f-71efe5a3bdae,0
+is there a flight from nashville to houston in the evening tomorrow,flight,c32d6adc-3d08-4f7a-b743-0787c03177e1,0
+what are the flights from boston to orlando,flight,a7b8d971-a31e-4b51-872f-50a249c8c074,0
+list all the airlines flying between washington and denver,airline,263bafd2-11c3-472e-adf8-9199cfa68aea,4
+list the three earliest flights from atlanta to philadelphia on wednesday,flight,de4e4538-4ae8-4c2c-b895-24062c5b9d43,0
+i 'd like to have flight from denver to pittsburgh,flight,ed122597-b6d2-4501-9805-eb1be6ada810,0
+atlanta to pittsburgh july twenty third,flight,03c98c9e-782c-45f0-ad0f-07677b7fa497,0
+show me the cheapest flight from pittsburgh to atlanta on wednesday which leaves before noon and serves breakfast,flight,faae138a-7f2d-4f0f-aeac-d09daaaffccc,0
+well i 'll try last time tell me the kind of aircraft united airlines flies from denver to san francisco before 10 o'clock in the morning,aircraft,7d6b092f-1594-4fe6-83eb-e44f740cb58c,8
+from denver to washington dc on monday november eleventh 1991,flight,6e0f6e59-f5f2-4e54-93f6-a08d8cb858f6,0
+what are all the flights from boston to dallas,flight,7ef2dcdb-1857-4059-b4fe-ab97ef9c13fa,0
+round trip fares from baltimore to philadelphia less than 1000 dollars round trip fares from denver to philadelphia less than 1000 dollars round trip fares from pittsburgh to philadelphia less than 1000 dollars,airfare,c7fcf0eb-cf30-4816-a87d-e74bb2c6cf71,1
+which airlines are represented in the database,airline,5c68454c-6163-4117-8ea2-c4f523ac73d9,4
+show me all the flights from burbank to denver,flight,5b4697dc-711d-495c-9141-1bee0a3145fd,0
+does continental airlines fly from pittsburgh to atlanta,flight,18736662-7dfc-4a52-acc9-abb7feb6969a,0
+show me the airlines from love field,airline,23e319cd-9512-440e-bd77-a2d107af4888,4
+i would like information information on flights from san francisco to denver on thursday morning,flight,1c2ef3a6-5c91-41f1-9c80-eeb48b60ebc3,0
+please show me flights from san francisco to dallas,flight,3fbe6572-0f9f-4dae-90a9-b33bc6ec392f,0
+what airlines have flights from baltimore to seattle,airline,6b938717-1e54-42ba-991e-d061b351f3ce,4
+list daily flights from atlanta to denver,flight,f8f16465-b6e1-40d6-ad59-0753dce859be,0
+show me the flights from philadelphia to dallas with a stop in atlanta,flight,2d24979a-6cc8-46ea-b6e4-7cc427ad3cdf,0
+are there any flights on us air from pittsburgh to atlanta on wednesday,flight,2bfb2527-5882-4bba-819f-6c2803cf368f,0
+are there any later flights than 810 pm leaving from milwaukee for tacoma tomorrow evening,flight,bb040610-6642-4b2b-8aa3-ac7efa7875cb,0
+show me flights from pittsburgh to dc,flight,87c4fbeb-a8fe-4dda-ad4a-dfc8ffcadb9a,0
+show me all flights from denver to pittsburgh which serve a meal for the day after tomorrow,flight,9951219a-8bc2-46a4-8383-68154276df28,0
+show the flights that leave philadelphia that go to atlanta that leave early on thursday morning,flight,663f92c0-456a-47e8-9c90-b757a493f4f7,0
+i want to go between boston and washington early in the morning,flight,3076d2fc-0268-4b13-8872-69d3e5bd3885,0
+show me all the flights from denver and all the flights from miami that arrive at baltimore around noon,flight,fe41c34f-6258-4d58-802d-4f4455657669,0
+what is the latest flight from washington dc to denver,flight,a1c356c6-dd57-4e20-ba1f-8fc482a34295,0
+all flights before 10 am boston denver,flight,dcc97757-bb9c-47ef-a761-07765a0317cb,0
+show me the flights into love field,flight,2199b156-f566-4c27-bf83-d4368775e284,0
+show sunday flights from seattle to chicago,flight,8698715b-d82b-4219-92b0-4033d635dccc,0
+i would like to fly on american airlines from baltimore to san francisco,flight,ccd16518-adfc-48ba-855e-82d2f2c173be,0
+please show me airlines with round trip flights from boston to denver stop philadelphia,airline,c4f96cde-d3d5-4dbe-93a4-682d1907173f,4
+please show me the flights from boston to san francisco,flight,f7efabd0-703a-4c1c-bc52-d511767a2e29,0
+what are the morning flights from boston to philadelphia,flight,313a65ed-694f-4442-aa65-134f5a1c3c87,0
+what planes does united use,aircraft,d5d39795-1fe1-4e8f-a205-43554785cdb4,8
+show me all flights from san diego to miami with a stop in denver,flight,c4608f15-5d58-449f-acf7-4eba31648d3f,0
+i 'd like the lowest fare from denver to pittsburgh,airfare,45980f6c-0745-43e8-9dcb-861b3104ffb5,1
+all one way flights between boston and philadelphia,flight,95a5f7f2-d7e8-49fd-bdef-0ad650c484da,0
