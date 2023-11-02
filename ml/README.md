@@ -45,7 +45,7 @@ In the notebook, you can see examples of charts on how we can monitor a model's 
 
 When dealing with multiple models for the same task, you can create similar charts that facilitate a side-by-side comparison of their performance over time. This comparison can help identify critical timestamps, such as when one model encounters issues while another excels. Additionally, you can generate aggregated scores for a comprehensive view of model performance. 📈
 
-<img src="data/static/metrics_cbpe.png" alt="ECE" width="600" height="400">
+<img src="data/static/metrics_cbpe.png" alt="ECE">
 
 ## Experiment Takeaways
 ### I have tuned several multilingual transformer models including: 
@@ -96,7 +96,7 @@ _Final Test metrics:_
 | macro avg              | 0.75      | 0.74   | 0.73     | 856     |
 | weighted avg           | 0.99      | 0.98   | 0.98     | 856     |
 
-<img src="data/static/ece.png" alt="ECE" width="300" height="200">
+<img src="data/static/ece.png" alt="ECE" width="600" height="500">
 
 ## Some Notes about SetFit Experiments
 
