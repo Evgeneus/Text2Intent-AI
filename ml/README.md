@@ -39,6 +39,12 @@ SetFit is a new approach to text classification that involves fine-tuning a Sent
 >### prod_monitoring.ipynb
 This notebook simulates the monitoring of a model operating in a production environment, where there is no immediate ground truth data.
 
+We can employ the Confidence-Based Performance Estimation (CBPE) for classification tasks (say bt using NunnyML). **Based on the assumption that the classifier is calibrated**, we can compute reliable performance metrics.
+
+In the notebook, you can see examples of charts on how we can monitor a model's performance "online" after it is rolled out in the production environment. It is possible to plot metrics based on probability, like accuracy, F1, Precision, and Recall. 
+
+When dealing with multiple models for the same task, you can create similar charts that facilitate a side-by-side comparison of their performance over time. This comparison can help identify critical timestamps, such as when one model encounters issues while another excels. Additionally, you can generate aggregated scores for a comprehensive view of model performance. 📈
+
 ## Experiment Takeaways
 ### I have tuned several multilingual transformer models including: 
 - `xlm-align-base` from Microsoft, 280 M parameters. I have found this model to be a very good baseline for many tasks. 
