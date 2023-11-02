@@ -4,7 +4,7 @@ This directory represents ML functionality, in particular research part, of the 
 - `notebooks` folder contains notebooks for data exploration and model training, all of them are available on google colab (links can be found below).
 
 ## Notebooks
->### data_exploration_transformation.ipynb
+>### data_exploration_transformation.ipynb ([Open in Google Colab 🚀](https://drive.google.com/file/d/18zskjyIdRXAJ79llnVmWOkxttLVtYku5/view?usp=sharing))
 This notebook is dedicated to exploratory analyses of the ATIS dataset. Some key observations:
 
 1. Highly imbalanced dataset!
@@ -20,7 +20,7 @@ This notebook is dedicated to exploratory analyses of the ATIS dataset. Some key
 
 ---> The dataset needs cleaning and transformation.
 
->### atis_mpnet.ipynb
+>### atis_mpnet.ipynb ([Open in Google Colab 🚀](https://drive.google.com/file/d/1Tw__zHJz0Bxw1cV_Pe9yK3-YhZekfylN/view?usp=sharing))
 
 This notebook showcases a PyTorch-based code for fine-tuning transformer models designed for sequence classification.
 The code can be easily used for various classification tasks, working on a CPU, a single GPU, or multiple GPUs using Distributed Data Parallel (DDP). The code allows you to train and fine-tune any sequence classification model available in the HuggingFace repository.
@@ -31,12 +31,12 @@ Throughout the training process, I monitor and compute running precision, recall
 
 To ensure compatibility and accessibility, the model is exported in both torch and ONNX formats, making it easy to integrate and deploy in a variety of settings.
 
->### atis_setfit.ipynb
+>### atis_setfit.ipynb ([Open in Google Colab 🚀](https://drive.google.com/file/d/1xtFC3F1O_Gzkwtp0JDWoQoIrrj8imuKZ/view?usp=sharing))
 I am curious to read new AI papers and try out new approaches, for this challenge, I have also investigated a recent work "Efficient Few-Shot Learning Without Prompts" (SetFit) by Tunstall et al. (https://arxiv.org/pdf/2209.11055.pdf).
 
 SetFit is a new approach to text classification that involves fine-tuning a Sentence Transformer with task-specific data. It offers a simpler and more efficient alternative to few-shot classification training. So first the approach learns embeddings of texts in a Siamese and Contrastive learning fashion, and then we can tune a one-layer classifier on top of the frozen encoder. Thus I have researched this approach for the ATIS challenge and found it very interesting to consider for the future (at least because the setfit codebase is very limited). Moreover, we can consider enrolling new classes without retraining the network, in particular using KNN search in the reference database of embeddings.
 
->### prod_monitoring.ipynb
+>### prod_monitoring.ipynb ([Open in Google Colab 🚀](https://colab.research.google.com/drive/1RJi5a1QRcAcQFM9OwkVFwGcLpl3a4gJj?usp=sharing))
 This notebook simulates the monitoring of a model operating in a production environment, where there is no immediate ground truth data.
 
 We can employ the Confidence-Based Performance Estimation (CBPE) for classification tasks (say bt using NunnyML). **Based on the assumption that the classifier is calibrated**, we can compute reliable performance metrics.
@@ -44,6 +44,8 @@ We can employ the Confidence-Based Performance Estimation (CBPE) for classificat
 In the notebook, you can see examples of charts on how we can monitor a model's performance "online" after it is rolled out in the production environment. It is possible to plot metrics based on probability, like accuracy, F1, Precision, and Recall. 
 
 When dealing with multiple models for the same task, you can create similar charts that facilitate a side-by-side comparison of their performance over time. This comparison can help identify critical timestamps, such as when one model encounters issues while another excels. Additionally, you can generate aggregated scores for a comprehensive view of model performance. 📈
+
+<img src="data/static/metrics_cbpe.png" alt="ECE" width="600" height="400">
 
 ## Experiment Takeaways
 ### I have tuned several multilingual transformer models including: 
@@ -93,6 +95,8 @@ _Final Test metrics:_
 | accuracy               |           |        | 0.98     | 856     |
 | macro avg              | 0.75      | 0.74   | 0.73     | 856     |
 | weighted avg           | 0.99      | 0.98   | 0.98     | 856     |
+
+<img src="data/static/ece.png" alt="ECE" width="300" height="200">
 
 ## Some Notes about SetFit Experiments
 
