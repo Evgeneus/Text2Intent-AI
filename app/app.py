@@ -109,7 +109,7 @@ def main():
     args = arg_parser.parse_args()
     # Load the model asynchronously
     executor = ThreadPoolExecutor(max_workers=1)
-    executor.submit(lambda: model.load(args.model))
+    executor.submit(lambda: model.load(args.model, args.top_k))
     # Run flask app
     app.run(host="0.0.0.0", port=args.port)
 
