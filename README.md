@@ -1,14 +1,14 @@
-# Ultimate AI Intent Classification Project
+# AI Intent Classification from Text
 
-This project is devoted to a Flask HTTP service aming to provide the classification of intents from text, utilizing the ATIS dataset as the core dataset for training Transformer model.
+This project is devoted to a Flask HTTP service aimed at providing the classification of intents from text, utilizing the ATIS dataset as the core dataset for training Transformer model.
 The corresponding AI/ML implementation, research, and results can be found under `ml` directory and in detail described in `ml/README.md`.
 
 While the dataset consists of English texts, the service is able to detect intents correctly for some languages (see example below) 😊.
 
 The model is exported to ONNX and running on CPU, while it will be very easy to move it on GPU instances in case the load on the server increases or/and we look for faster SLA.
-(Roughly a GPU instance consts 2x CPU on AWS).
+(Roughly a GPU instance costs 2x CPU on AWS).
 
-Below, you will find details about the Flask service and instructions on how to run it.
+Below, I've included details about the Flask service and instructions on how to run it.
 
 ## Local API Deployment
 ### 1. Install Docker:
